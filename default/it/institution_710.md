@@ -1,3 +1,3 @@
-**Istituzione in relazione (710)**
+#### **Related institution (710)**
 
-Questo campo riporta rimandi ad altre biblioteche o istituzioni che sono correlate all’istituzione in questione. Questo campo è collegato all’indice **Istituzioni**.&nbsp;
+This field gives cross-references to other libraries or institutions that are related to the given institution. This field is linked to the **Institutions** authority file.

@@ -1,38 +1,37 @@
-**Modos eclesiásticos ocidentais:**  
+**Western church modes:**
 
-1t = 1º tom (Dórico)  
-1tt = 1º tom (Dórico), transposto  
-2t = 2 º tom (Hipodórico)  
-2tt = 2 º tom (Hipodórico), transposto  
-3t = 3 º tom (Frígio)  
-3tt = 3 º tom (Frígio), transposto  
-4t = 4 º tom (Hipofrígio)  
-4tt = 4 º tom (Hipofrígio), transposto  
-5t = 5 º tom (Lídio)  
-5tt = 5 º tom (Lídio), transposto  
-6t = 6 º tom (Hipolídio)  
-6tt = 6 º tom (Hipolídio), transposto  
-7t = 7 º tom (Mixolídio)  
-7tt = 7 º tom (Mixolídio), transposto  
-8t = 8 º tom (Hipomixolídio)  
-8tt = 8 º tom (Hipomixolídio), transposto  
-9t = 9 º tom (Eólio)  
-9tt = 9 º tom (Eólio), transposto  
-10t = 10 º tom (Hipoeólio)  
-10tt = 10 º tom (Hipoeólio), transposto  
-11t = 11 º tom (Jônio)  
-11tt = 11 º tom (Jônio), transposto  
-12t = 12 º modo (Hipojônio)  
-12tt = 12 º modo (Hipojônio), transposto
+1t = 1st tone (Dorian)  
+1tt = 1st tone (Dorian), transposed  
+2t = 2nd tone (Hypodorian)  
+2tt = 2nd tone (Hypodorian), transposed  
+3t = 3rd tone (Phrygian)  
+3tt = 3rd tone (Phrygian), transposed  
+4t = 4th tone (Hypophrygian)  
+4tt = 4th tone (Hypophrygian), transposed   
+5t = 5th tone (Lydian)   
+5tt = 5th tone (Lydian), transposed  
+6t = 6th tone (Hypolydian)   
+6tt = 6th tone (Hypolydian), transposed  
+7t = 7th tone (Mixolydian)   
+7tt = 7th tone (Mixolydian), transposed   
+8t = 8th tone (Hypomixolydian)  
+8tt = 8th tone (Hypomixolydian), transposed  
+9t = 9th tone (Aeolian)  
+9tt = 9th tone (Aeolian), transposed  
+10t = 10th tone (Hypoaeolian)  
+10tt = 10th tone (Hypoaeolian), transposed  
+11t = 11th tone (Ionian)  
+11tt = 11th tone (Ionian), transposed  
+12t = 12th tone (Hypoionian)  
+12tt = 12th tone (Hypoionian), transposed
 
-  
 
-**Modos bizantinos:**  
-Ēchos prōtos (Primeiro modo bizantino)  
-Ēchos deuteros (Segundo modo bizantino)  
-Ēchos tritos (Terceiro modo bizantino)  
-Ēchos tetartos (Quarto modo bizantino)  
-Ēchos plagios prōtos (Primeiro modo bizantino plagal)  
-Ēchos plagios deuteros (Segundo modo bizantino plagal)  
-Ēchos barys (Terceiro modo bizantino plagal)  
-Ēchos plagios tetartos (Quarto modo bizantino plagal)
+**Byzantine modes:**  
+Ēchos prōtos (First mode of Byzantine music)  
+Ēchos deuteros (Second mode of Byzantine music)  
+Ēchos tritos (Third mode of Byzantine music)  
+Ēchos tetartos (Fourth mode of Byzantine music)  
+Ēchos plagios prōtos (First plagal mode of Byzantine music)  
+Ēchos plagios deuteros (Second plagal mode of Byzantine music)  
+Ēchos barys (Third plagal mode of Byzantine music)  
+Ēchos plagios tetartos (Fourth plagal mode of Byzantine music)

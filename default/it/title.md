@@ -1,24 +1,13 @@
-[TO TRANSLATE:]
+![](rism_logo.jpg)
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
- ![]()  
-  
-  
-  
-  
-  
-  
-  
-  
 
-# Regole di catalogazione RISM per Muscat
 
-## Versione 3.6.0
+
+
+
+
+
+
+# RISM Guidelines for Muscat
+
+## Version 3.6.0

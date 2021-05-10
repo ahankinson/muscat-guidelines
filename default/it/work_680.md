@@ -1,5 +1,4 @@
-#### Osservazioni (680 $a)
+**General note (680 $a)**  
+RDA registry [rdau:P60470](http://www.rdaregistry.info/Elements/u/#P60470)
 
-Numero di registro RDA:&nbsp;[rdau:P60470](http://www.rdaregistry.info/Elements/u/#P60470)
-
-Si può riportare qui qualsiasi informazione riguardo a una fonte che non abbia potuto essere inserita in altri campi.&nbsp;Inserisci i dati usando la tua lingua di catalogazione.&nbsp;
+Any information on a work which could not be entered in other fields can be given here. Enter using your cataloging language.

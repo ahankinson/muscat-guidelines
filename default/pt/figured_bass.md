@@ -1,155 +1,149 @@
-Os campos seguintes devem ser preenchidos como indicado no caso de uma **parte** de baixo cifrado:
+The following fields must be filled out as follows if you have a figured bass **part** :
 
 &nbsp;
 
-| 
+|
 
-**Instrumento&nbsp;&nbsp;&nbsp;**
-
- | 
-
-**Síntese da formação (130/240 $m)**
-
- | 
-
-**Partes existentes&nbsp; (590)**
-
- | 
-
-**Formação (594)**
+**Instrument**
 
  |
-| 
+
+**Scoring summary (130/240 $m)**
+
+ |
+
+**Parts held (590)**
+
+ |
+
+**Scoring (594)**
+
+ | |
 
 b
 
- | 
+ |
 
 b
 
- | 
+ |
 
 b.fig
 
- | 
+ |
 
 b
 
+ | |
+
+bc
+
  |
-| 
 
 bc
 
- | 
-
-bc
-
- | 
+ |
 
 bc.fig
 
- | 
+ |
 
 bc
 
+ | |
+
+org
+
  |
-| 
 
 org
 
- | 
-
-org
-
- | 
+ |
 
 org.fig
 
- | 
+ |
 
 org
 
- |
-| 
+ | |
 
-Para outros instrumentos de teclas, siga o modelo para **org**.
+For other keyboard instruments, follow the model as for **org**.
 
  |
 
 &nbsp;
 
-Para um baixo cifrado em uma **partitura** , faça o seguinte:
+For a figured bass in a **score** , do the following:
 
-| 
+|
 
-**Instrumento&nbsp;&nbsp;&nbsp;**
-
- | 
-
-**Síntese da formação&nbsp; (130/240 $m)**
-
- | 
-
-**Formação (594)**
-
- | 
-
-**Nota geral (500)**
+**Instrument**
 
  |
-| 
+
+**Scoring summary (130/240 $m)**
+
+ |
+
+**Scoring (594)**
+
+ |
+
+**General note (500)**
+
+ | |
 
 b
 
- | 
+ |
 
 b
 
- | 
+ |
 
 b
 
- | 
+ |
 
 b = b.fig
 
+ | |
+
+bc
+
  |
-| 
 
 bc
 
- | 
+ |
 
 bc
 
- | 
-
-bc
-
- | 
+ |
 
 bc = bc.fig
 
+ | |
+
+org
+
  |
-| 
 
 org
 
- | 
+ |
 
 org
 
- | 
-
-org
-
- | 
+ |
 
 org = org.fig
 
- |
-| 
+ | |
 
-Para outros instrumentos de teclas, siga o modelo para **org**.
+For other keyboard instruments, follow the model as for **org**.
 
  |
+
+&nbsp;

@@ -1,3 +1,3 @@
-#### **Data utworzenia (MARC 008; ISDIAH 5.6.6)&nbsp;**
+#### **Date of creation (MARC 008; ISDIAH 5.6.6)&nbsp;**
 
-Pole pokazuje datę stworzenia rekordu. Pole generuje się automatycznie.
+This field shows the date that the record was created.&nbsp;This field is automatically generated.

@@ -1,5 +1,13 @@
-**Aiuti alla ricerca, guide e pubblicazioni (MARC 856 $u; ISDIAH 5.3.8)**
+#### **Finding aids, guides and publications (MARC 856 $u; ISDIAH 5.3.8)**
 
-Questo campo offre una panoramica generale delle guide alla ricerca pubblicate e/o non pubblicate preparate dall’istituzione e ogni altra pubblicazione pertinente.&nbsp;
+This field&nbsp;provides a general overview of the published and/or unpublished finding aids and guides prepared by the institution and any other relevant publications.
 
-Inserisci le informazioni (compresi gli URL) su aiuti alla ricerca, cataloghi, inventari ecc. delle collezioni dell’istituzione.
+Enter information (including URLs) about finding aids, catalogs, inventories, etc. for the institution’s collections.
+
+**Online finding aids (856 $u)**  
+Enter the URL of the finding aid.
+
+&nbsp;
+
+**Note (856 $z)**  
+Enter a short description of the URL.

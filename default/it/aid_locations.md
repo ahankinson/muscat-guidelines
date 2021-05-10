@@ -1,1121 +1,1041 @@
-#### Termini normalizzati&nbsp;  
+#### Standard terms
 
-#### 
+|
 
-| 
+**English**
 
-**Inglese**
+ |
 
- | **Italiano** |
-| 
+**German**
+
+ | |
 
 accidental
 
- | 
-
-Alterazione, accidente
-
  |
-| 
+
+Akkzidenz, Vorzeichen
+
+ | |
 
 added
 
+ |
+
+hinzugefügt
+
+ | |
+
 advertisements
 
- | 
-
-aggiunto
-
-inserzioni, pubblicità
-
  |
-| 
+
+Anzeigen
+
+ | |
 
 alto clef
 
- | 
-
-chiave di contralto
-
  |
-| 
+
+Altschlüssel
+
+ | |
 
 at bottom left / right / center of title page
 
- | 
-
-in basso a sinistra / destra / al centro del frontespizio
-
  |
-| 
+
+links/rechts/in der Mitte unten auf dem Titelblatt
+
+ | |
 
 at bottom of each part
 
- | 
-
-in basso su ciascuna parte
-
  |
-| 
+
+jeweils Fußtitel
+
+ | |
 
 at bottom of title page
 
- | 
-
-in basso sul frontespizio
-
  |
-| 
+
+am Fuß des Titelblatts
+
+ | |
 
 at top / head of title page
 
- | 
-
-in alto sul frontespizio
-
  |
-| 
+
+oben auf dem Titelblatt
+
+ | |
 
 augment
 
- | 
-
-aumentare
-
  |
-| 
+
+vergrößern
+
+ | |
 
 augmented
 
- | 
-
-aumentato
-
  |
-| 
+
+vergrößert
+
+ | |
 
 bar / measure
 
- | 
-
-battuta
-
  |
-| 
+
+Takt
+
+ | |
 
 bar line
 
- | 
-
-stanghetta di battuta
-
  |
-| 
+
+Taktstrich
+
+ | |
 
 bass clef
 
- | 
-
-chiave di basso
-
  |
-| 
+
+Baßschlüssel
+
+ | |
 
 beaming
 
- | 
-
-travatura
-
  |
-| 
+
+Balkung
+
+ | |
 
 beat
 
- | 
-
-tempo (in una battuta)
-
  |
-| 
+
+Schlag
+
+ | |
 
 binding title / cover title
 
- | 
-
-titolo di copertina
-
  |
-| 
+
+Einbandtitel
+
+ | |
 
 blacken
 
- | 
-
-annerire
-
  |
-| 
+
+schwärzen
+
+ | |
 
 by later hand
 
- | 
-
-di mano posteriore
-
  |
-| 
+
+von späterer Hand
+
+ | |
 
 by later hand, pencil / ink
 
- | 
-
-di mano posteriore, in matita / a penna
-
  |
-| 
+
+späterer Bleivermerk / Vermerk mit Tinte
+
+ | |
 
 by other hand
 
- | 
-
-di altra mano
-
  |
-| 
+
+von anderer Hand
+
+ | |
 
 by Santini
 
- | 
-
-nella mano di Santini
-
  |
-| 
+
+von Santinis Hand
+
+ | |
 
 C
 
- | 
-
-do2
-
  |
-| 
+
+c
+
+ | |
 
 C double flat
 
- | 
-
-do doppio bemolle
-
  |
-| 
+
+ceses
+
+ | |
 
 C double sharp
 
- | 
-
-do doppio diesis
-
  |
-| 
+
+cisis
+
+ | |
 
 C flat
 
- | 
-
-do bemolle
-
  |
-| 
+
+ces
+
+ | |
 
 C sharp
 
- | 
-
-do diesis
-
  |
-| 
+
+cis
+
+ | |
 
 C’ [C prime]
 
- | 
-
-do3
-
  |
-| 
+
+eingestrichenes c
+
+ | |
 
 canceled / cancelled
 
- | 
-
-cancellato
-
  |
-| 
+
+getilgt
+
+ | |
 
 caption
 
 -image caption
 
- | 
-
-didascalia
-
--didascalia dell'immagine
-
  |
-| 
+
+Unterschrift
+
+-Bildunterschrift
+
+ | |
 
 caption title
 
+ |
+
+Kopftitel
+
+ | |
+
 caption title on several parts
 
- | 
-
-titolo all'inizio del testo
-
-titolo all’inizio di alcune parti
-
  |
-| 
+
+Kopftitel einiger Stimmen
+
+ | |
 
 caption title, instrumental parts
 
- | 
-
-titolo all’inizio delle parti strumentali
-
  |
-| 
+
+Kopftitel der Instrumentalstimmen
+
+ | |
 
 changed to
 
- | 
-
-cambiato in
-
  |
-| 
+
+geändert in
+
+ | |
 
 clef
 
- | 
-
-chiave
-
  |
-| 
+
+Notenschlüssel
+
+ | |
 
 corrected
 
- | 
-
-corretto, migliorato
-
  |
-| 
+
+korrigiert, verbessert
+
+ | |
 
 cover title
 
- | 
-
-titolo di copertina
-
  |
-| 
+
+Umschlagtitel / Umschlagdeckeltitel
+
+ | |
 
 cover title by Poelchau
 
- | 
-
-titolo di copertina nella mano di Poelchau
-
  |
-| 
+
+Umschlagtitel von Poelchaus Hand
+
+ | |
 
 cover title, parts
 
- | 
-
-titolo di copertina nelle parti
-
  |
-| 
+
+Umschlagtitel der Stimmen
+
+ | |
 
 cover title, score 1
 
- | 
-
-titolo di copertina della prima partitura
-
  |
-| 
+
+Umschlagtitel der 1. Partitur
+
+ | |
 
 cover title, vl 1
 
- | 
-
-titolo di copertina della parte di vl 1
-
  |
-| 
 
-| 
+Umschlagtitel der vl 1-Stimme
 
-cropped&nbsp;
+ | |
+
+cropped
 
 -upper margin heavily cropped
 
- |   
  |
+
+beschnitten
+
+-oberer Rand stark beschnitten
+
+ | |
 
 crossed out / struck through
 
- | 
-
-rifilato
-
--margine superiore pesantemente rifilato
-
-cassato
-
  |
-| 
+
+durchstrichen
+
+ | |
 
 cut
 
- | 
-
-tagliato
-
  |
-| 
+
+beschnitten
+
+ | |
 
 device
 
 -publisher's device
 
+ |
+
+Signet
+
+-Verlagssignet
+
+ | |
+
 diminish
 
- | 
-
-marca, vignetta
-
--marca tipografica
-
-diminuire
-
  |
-| 
+
+verkleinern
+
+ | |
 
 diminished
 
- | 
-
-diminuito
-
  |
-| 
+
+verkleinert
+
+ | |
 
 dotted
 
- | 
-
-col punto
-
  |
-| 
+
+punktiert
+
+ | |
 
 double
 
- | 
-
-doppio
-
  |
-| 
+
+verdoppeln
+
+ | |
 
 double dotted
 
- | 
-
-col doppio punto
-
  |
-| 
+
+doppelt punktiert
+
+ | |
 
 (double) dot
 
- | 
-
-(doppio) punto
-
  |
-| 
+
+(doppelte) Punktierung
+
+ | |
 
 double flat
 
- | 
-
-doppio bemolle
-
  |
-| 
+
+Doppel-B
+
+ | |
 
 double sharp
 
- | 
-
-doppio diesis
-
  |
-| 
+
+Doppelkreuz
+
+ | |
 
 doubled
 
- | 
-
-raddoppiato
-
  |
-| 
+
+verdoppelt
+
+ | |
 
 dust cover title
 
- | 
-
-titolo sulla sovracoperta
-
  |
-| 
+
+Titel auf Schutzumschlag
+
+ | |
 
 engraved
 
- | 
-
-inciso
-
  |
-| 
+
+gestochen
+
+ | |
 
 erased
 
- | 
-
-cancellato
-
  |
-| 
+
+ausradiert
+
+ | |
 
 flatten
 
-frame&nbsp;
+ |
+
+erniedrigen
+
+ | |
+
+frame
 
 -decorative frame
 
 -floral decorative frame
 
- | 
-
-bemollizzato / abbassato
-
-cornice
-
--cornice decorativa
-
--cornice floreale
-
  |
-| 
+
+Rahmen
+
+-Zierrahmen
+
+-floraler Zierrahmen
+
+ | |
 
 G clef
 
- | 
-
-chiave di violino
-
  |
-| 
+
+G-Schlüssel
+
+ | |
 
 grace note
 
- | 
-
-appoggiatura / acciaccatura
-
  |
-| 
+
+Vorschlag
+
+ | |
 
 great octave
 
- | 
-
-l’ottava do1-si1
-
  |
-| 
+
+große Oktave
+
+ | |
 
 guard sheet
 
- | 
-
-foglio di guardia
-
  |
-| 
+
+Deckblatt
+
+ | |
 
 halve
 
- | 
-
-dimezzare
-
  |
-| 
+
+halbieren
+
+ | |
 
 halved
 
- | 
-
-dimezzato
-
  |
-| 
+
+halbiert
+
+ | |
 
 heading
 
- | 
-
-intestazione
-
  |
-| 
+
+Überschrift
+
+ | |
 
 illegible
 
- | 
-
-illeggibile
-
  |
-| 
 
-incipit
+unlesbar
 
- | 
+ | |
 
 incipit
 
  |
-| 
+
+Incipit
+
+ | |
 
 indication of parts
 
- | 
-
-denominazione delle parti
-
  |
-| 
+
+Stimmbezeichnung/en
+
+ | |
 
 key signature
 
- | 
-
-armatura di chiave
-
  |
-| 
+
+Tonartvorzeichnung
+
+ | |
 
 label on cover
 
- | 
-
-etichetta sulla coperta / titolo di copertina incollato
-
  |
-| 
+
+Umschlagtitel auf Etikett / Umschlagtitel aufgeklebt
+
+ | |
 
 left before accolade
 
- | 
-
-a sinistra prima del sistema
-
  |
-| 
+
+links von der Akkolade
+
+ | |
 
 metre / meter
 
- | 
-
-metro
-
  |
-| 
+
+Taktart
+
+ | |
 
 missing
 
 -text missing
 
+ |
+
+-Textverlust
+
+ | |
+
 monogram
 
- | 
-
-mancante / lacuna
-
--lacuna testuale
-
-monogramma
-
  |
-| 
+
+Monogramm
+
+ | |
 
 natural sign
 
- | 
-
-bequadro
-
  |
-| 
+
+Auflösungszeichen
+
+ | |
 
 note head
 
- | 
-
-testa della nota
-
  |
-| 
+
+Notenkopf
+
+ | |
 
 note stem
 
- | 
-
-gambo della nota
-
  |
-| 
+
+Notenhals
+
+ | |
 
 on previous page
 
- | 
-
-sulla pagina precedente
-
  |
-| 
+
+auf der vorhergehenden Seite
+
+ | |
 
 pasteover S
 
- | 
-
-titolo incollato sulla parte di soprano
-
  |
-| 
+
+Aufgeklebter Titel einer S-Stimme
+
+ | |
 
 printed
 
- | 
-
-a stampa
-
  |
-| 
+
+gedruckt
+
+ | |
 
 printed title on ...
 
- | 
+raised
 
-titolo a stampa su ...
+&nbsp;&nbsp;&nbsp;&nbsp; A with raised e [typeography]
 
  |
-| 
+
+Titelaufdruck auf ...
+
+überhöht
+
+&nbsp;&nbsp;&nbsp;&nbsp; A mit e überhöht
+
+ | |
 
 red chalk
 
- | 
-
-a sanguigna
-
  |
-| 
+
+Rötel
+
+ | |
 
 role book
 
- | 
-
-parte di un personaggio
-
  |
-| 
+
+Rollenbuch
+
+ | |
 
 sharp / flat sign
 
- | 
-
-diesis / bemolle
-
  |
-| 
+
+Erhöhungs- / Erniedrigungszeichen
+
+ | |
 
 sharpen
 
- | 
-
-diesizzare / alzare
-
  |
-| 
 
-sic
+erhöhen
 
- | 
+ | |
 
 sic
 
  |
-| 
+
+sic
+
+ | |
 
 small octave
 
- | 
-
-l’ottava do2-si2
-
  |
-| 
+
+kleine Oktave
+
+ | |
 
 soprano clef
 
- | 
-
-chiave di soprano
-
  |
-| 
+
+Sopranschlüssel
+
+ | |
 
 space
 
- | 
-
-spazio
-
  |
-| 
+
+Spatium, Zwischenraum
+
+ | |
 
 spine title
 
- | 
-
-titolo sul dorso
-
  |
-| 
+
+Rückentitel
+
+ | |
 
 spine title, printed
 
- | 
-
-titolo sul dorso, a stampa
-
  |
-| 
+
+Rückentitel gedruckt
+
+ | |
 
 tenor clef
 
- | 
-
-chiave di tenore
-
  |
-| 
+
+Tenorschlüssel
+
+ | |
 
 tie
 
- | 
-
-legatura di valore
-
  |
-| 
+
+Haltebogen
+
+ | |
 
 time signature
 
- | 
-
-misura
-
  |
-| 
+
+Taktvorzeichen
+
+ | |
 
 title in margin
 
- | 
-
-titolo a margine
-
  |
-| 
+
+Titel am Blattrand
+
+ | |
 
 title on flyleaf
 
- | 
-
-titolo sul risguardo
-
  |
-| 
+
+Titel auf Vorsatzblatt
+
+ | |
 
 title page
 
- | 
-
-frontespizio
-
  |
-| 
+
+Titelseite
+
+ | |
 
 transposed up / down a major third
 
- | 
-
-trasposto una terza maggiore all’acuto / al grave
-
  |
-| 
+
+um eine große Terz aufwärts / abwärts transponiert
+
+ | |
 
 treble clef
 
- | 
-
-chiave di violino
-
  |
-| 
+
+Violinschlüssel
+
+ | |
 
 upbeat
 
+ |
+
+Auftakt
+
+ | |
+
 vignette
 
- | 
+ |
 
-anacrusi
+Vignette
 
-vignetta
+ | |
 
  |
 
-  
+ |
 
-| 
+|
 
-**Valori delle note: inglese americano / britannico**
-
- | 
-
-**Valori delle note**
+**Note values: American / British**
 
  |
-| 
+
+**Notenwerte**
+
+ | |
 
 whole note / semibreve
 
- | 
-
-semibreve
-
  |
-| 
+
+ganze Note
+
+ | |
 
 half note / minim
 
- | 
-
-minima
-
  |
-| 
+
+halbe Note
+
+ | |
 
 quarter note / crotchet
 
- | 
-
-semiminima
-
  |
-| 
+
+Viertelnote
+
+ | |
 
 eighth note / quaver
 
- | 
-
-croma
-
  |
-| 
+
+Achtelnote
+
+ | |
 
 sixteenth note / semiquaver
 
- | 
-
-semicroma
-
  |
-| 
+
+Sechzehntelnote
+
+ | |
 
 thirty-second note / demisemiquaver
 
- | 
-
-biscroma
-
  |
-| 
+
+Zweiunddreißigstelnote
+
+ | |
 
 sixty-fourth note / hemidemisemiquaver
 
- | 
-
-semibiscroma
-
  |
-| 
+
+Vierundsechzigstelnote
+
+ | |
 
 duplet
 
- | 
-
-duina
-
  |
-| 
+
+Duole
+
+ | |
 
 triplet
 
- | 
-
-terzina
-
  |
-| 
+
+Triole
+
+ | |
 
 quadruplet
 
- | 
-
-quartina
-
  |
-| 
+
+Quartole
+
+ | |
 
 quintuplet
 
- | 
-
-quintina
-
  |
-| 
+
+Quintole
+
+ | |
 
 sextuplet
 
- | 
-
-sestina
-
  |
-| 
+
+Sextole
+
+ | |
 
 septuplet
 
- | 
-
-gruppo irregolare di sette note
-
  |
-| 
+
+Septole
+
+ | |
 
 octuplet
 
- | 
+ |
 
-gruppo irregolare di otto note
+Oktole
 
  |
 
-  
+|
 
-| 
-
-**Valori delle pause: Inglese americano / britannico**
-
- | **Valori delle pause** |
-| 
-
-whole rest / semibreve rest
-
- | 
-
-pausa di semibreve
+**Rest values: American / British**
 
  |
-| 
+
+**Pausenwerte**
+
+ | |
+
+whole rest /semibreve rest
+
+ |
+
+ganze Pause
+
+ | |
 
 half rest / minim rest
 
- | 
-
-pausa di minima
-
  |
-| 
+
+halbe Pause
+
+ | |
 
 quarter rest / crotchet rest
 
- | 
-
-pausa di semiminima
-
  |
-| 
+
+Viertelpause
+
+ | |
 
 eighth rest / quaver rest
 
- | 
-
-pausa di croma
-
  |
-| 
+
+Achtelpause
+
+ | |
 
 sixteenth rest / semiquaver rest
 
- | 
-
-pausa di semicroma
-
  |
-| 
+
+Sechzehntelpause
+
+ | |
 
 thirty-second rest / demisemiquaver rest
 
- | 
-
-pausa di biscroma&nbsp;
-
  |
-| 
+
+Zweiunddreißigstelpause
+
+ | |
 
 sixty-fourth rest / hemidemisemiquaver rest
 
- | 
+ |
 
-pausa di semibiscroma
+Vierundsechzigstelpause
 
  |

@@ -1,14 +1,13 @@
-**Risorsa esterna (856 $u)**
+#### **External resource URL (856 $u)**
 
-Inserisci lo URL della risorsa esterna. Utilizza ovunque possibile dei collegamenti permanenti (permalink).
+Enter the full URL of the external resource. Use permalinks whenever possible.&nbsp;
 
-&nbsp;
+####
+**Note about external resource (856 $z)**
 
-**Nota destinata al pubblico (856 $z)**
+Enter a brief note that describes the link.
 
-Inserisci una breve nota che descrive il collegamento.  
-  
-_Esempi:_  
+_Examples:_  
 Electronic resource  
 Elektronische Ressource  
 Link to PDF  

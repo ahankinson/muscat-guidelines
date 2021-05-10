@@ -1,19 +1,19 @@
-**Outras notas sobre a descrição (680 $a)**
+#### **Other notes on description (680 $a)**
 
-Insira notas adicionais que descrevam a instituição, tais como:
+Enter additional notes that describe the institution, such as:
 
-- Políticas de gestão e de entrada de documentos (ISDIAH 5.3.5): Insira informação sobre as políticas de entrada de documentos da instituição. Indique se o repositório procura adquirir materiais por transferência, doação, compra e/ou empréstimo.
-- Classificação da coleção, tal como “Coleção em GB-Lbl”
-- Repositório online: URL do repositório digital da instituição
-- Acervo arquivístico e outros acervos (ISDIAH 5.3.7): Insira os nomes dos fundos e coleções. Inicie cada nome em uma nova linha. Use o nome tal como utilizado pela instituição. No caso de fundos pessoais, é recomendável adicionais entre parênteses as datas de nascimento e morte da pessoa em questão. Se existm listas ou URLs com informação sobre as coleções&nbsp; ou fundos de uma instituição específica, forneça o URL.&nbsp;  
-_Exemplos:_  
- &nbsp;Joachim, Joseph (1831-1907)&nbsp;(Royal College of Music, Library)  
- &nbsp;Andrée-Stenhammararkivet  
- &nbsp;Telemann, Georg Michael  
- &nbsp;Fonds Montpensier  
- &nbsp;Collection Camille Saint-Saëns  
-&nbsp;Dallapiccola, Luigi, compositore (Pisino, 1904 – Firenze, 1975)&nbsp;
+- Records management and collecting policies&nbsp;(ISDIAH 5.3.5): Enter information about the collecting policies of the institution. Indicate whether the repository seeks to acquire materials by transfer, gift, purchase and/or loan.
+- Classification of the collection, such as "Collection in GB-Lbl"
+- Online repository: URL of the digital repository of the institution
+- Archival and other holdings (ISDIAH 5.3.7):&nbsp;Enter the names of the fonds and collections. Start each name on a new line. Use the name as used by the holding institution. In the case of personal fonds, it is recommended to add in brackets the dates of birth and death of the person in question.&nbsp; If there are lists or URLs with the information about the collections or fonds of a specific institution, provide the URL.&nbsp;  
+  _Examples:_  
+  &nbsp;Joachim, Joseph (1831-1907)&nbsp;(Royal College of Music, Library)  
+  &nbsp;Andrée-Stenhammararkivet  
+  &nbsp;Telemann, Georg Michael  
+  &nbsp;Fonds Montpensier  
+  &nbsp;Collection Camille Saint-Saëns  
+  &nbsp;&nbsp;Dallapiccola, Luigi, compositore (Pisino, 1904 – Firenze, 1975)&nbsp;
 
-- Horário de funcionamento (ISDIAH 5.4.1): Providenciar informação sobre horário de funcionamento e datas de fechamento anual: inclua esta informação se não está prontamente disponível online.
-- Condições e requisitos para acesso e uso (ISDIAH 5.4.2)
-- Serviços de reprodução (ISDIAH 5.5.2)
+- Opening times (ISDIAH 5.4.1): To provide information on opening times and dates of annual closures: Include this information if it is not readily available online.
+- Conditions and requirements for access and use (ISDIAH 5.4.2)
+- Reproduction services (ISDIAH 5.5.2)

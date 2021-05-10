@@ -1,14 +1,14 @@
-### **Warianty nazw: Nagłówek (400)**
+### **Name variants: Heading (400)**
 
-W polu podaje się inne tytuły, pod jakimi utwór jest znany. Nie należy usuwać wariantów nazw dodawanych w wyniku importowania danych z VIAF.
+This field gives other titles that the work is known by. Do not delete name variants that are added as a result of importing data from VIAF.
 
 &nbsp;
 
-**Kompozytor (400 $a)  
-Rok urodzenia i śmierci (400 $d)  
-Streszczenie obsady 400 $m)  
-Numer opus/Numer indeksu tematycznego (400 $n)  
-Tonacja lub modus (400 $r)  
-Tytuł utworu (400 $t)** Rejestr RDA[&nbsp;registry](http://www.rdaregistry.info/Elements/w/#P10086)[rdaw:P10086](http://www.rdaregistry.info/Elements/w/#P10086)
+**Composer (400 $a)  
+Years of birth and death (400 $d)  
+Scoring summary (400 $m)  
+Opus/Thematic index number (400 $n)  
+Key or mode (400 $r)  
+Title of work (400 $t)** RDA[&nbsp;registry](http://www.rdaregistry.info/Elements/w/#P10086)[rdaw:P10086](http://www.rdaregistry.info/Elements/w/#P10086)
 
-Wypełnić pola tak jak wypełnia się pola z hasłem głównym (100).
+Fill out the fields as with the main heading (100) above.
