@@ -1,36 +1,31 @@
-### **Varianti del nome&nbsp;(400)**
+### **Name variant (400)**
 
-Questo campo riporta forme del nome che differiscono dalla forma autorizzata, come nomi da nubile/celibe, pseudonimi, nomi religiosi, nomi con varianti ortografiche secondo fonti diverse, traslitterazioni alternative ecc.
+This field is for forms of the name that differ from the authorized form, such as birth names, pseudonyms, religious names, names spelled differently on different sources, alternate transliterations, etc.
 
-#### **Varianti del nome** (400 $a)
+#### Name variant (400 $a)
 
-Inserisci il nome nella forma descritta per il campo **Nome di persona (100 $a)**.
+Enter the name in the form described in the field **Heading - Personal name (100 $a)**.
 
-Per nomi scritti originariamente in alfabeti non latini, inserisci in questo campo la forma nell’alfabeto non latino. Puoi inserire qui anche delle traslitterazioni secondo differenti tabelle di traslitterazione.  
+For names originally written using non-Latin scripts, enter the form in the non-Latin script in this field. Transliterations using other translation tables can also be entered here.
 
-Inserisci qui aggiunte al nome come Jr, III, Sir, Meister, ecc., ad esempio: **Sinatra, Frank Jr.**
+Additions to names such as Jr, III, Sir, Meister,etc. are entered here, for example: **Sinatra, Frank Jr.**
 
-####   
-Data di nascita e di morte (400 $d)
+####
+Life dates (400 $d)
 
-Non inserire nulla in questo campo.
+Do not enter anything in this field.
 
-####   
-Descrizione della variante del nome (400 $j)
+####
+Type of name variant (400 $j)
 
-Seleziona dalla lista:
+Select from the list:
 
-- **Nome di battesimo**  
-- **Nome da nubile/celibe**  
-- **Soprannome**
-- **Iniziali**
-- **Nome da sposato**  
-- **Nome di religione** : nome preso all'atto di entrare in un ordine religioso  
-- **Pseudonimo**
-- **Ortografia alternativa** : anche per traslitterazioni e nomi che utilizzano alfabeti non latini  
-- **Traduzione** : ad esempio, _Ackermann, Alexander_è una variante tradotta di _Agricola, Alexander_
-- **Nome di famiglia** : si prega di non utilizzare
-- **Monogramma** : si prega di non utilizzare  
-- **Altra forma di ricerca** : si prega di non utilizzare
-- **Nome di persona:** si prega di non utilizzare
-- **Sconosciuto** : si prega di non utilizzare
+- **Alternate spelling** [z]:This is for alternate spellings, transliterations, or names using non-Latin alphabets
+- **Baptismal name** [tn]
+- **Birth name** [gg]
+- **Initials** [in]
+- **Married name** [ee]
+- **Nickname** [bn]
+- **Pseudonym** [da]
+- **Religious name** [do]
+- **Translation** [ub] **:** For example, _Ackermann, Alexander_ is a translated variant of _Agricola, Alexander_
