@@ -1,4 +1,6 @@
-**Orte (Marc 551)**  
-  
-Hier werden die standardisierten Geografika aus der Normdatei **Orte** ausgewählt.&nbsp;  
-Beispiel:&nbsp;_Aigen-Schlägl_&nbsp;im Sigeleintrag A-SCH.
+#### **Places (MARC 551)**
+
+Enter geographical names. This field is linked to the **Places** index. &nbsp;
+
+_Example_:  
+Aigen-Schlägl&nbsp;_for the RISM library siglum&nbsp;record A-SCH_
