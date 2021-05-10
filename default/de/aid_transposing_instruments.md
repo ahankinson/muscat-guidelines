@@ -1,379 +1,532 @@
-| 
+|
 
-**Stimmung**
-
- | 
-
-**Instrumente**
-
- | 
-
-**Transposition ausgehend  
- a) von Notierung  
- b) vom Klang**
-
- | 
-
-**Klingender Ton c'  
-wird notiert  
- als**
-
- | 
-
-**Notierter Ton c'  
-erklingt  
-als**
+**Tuning** (highest to lowest)
 
  |
-|   
- |   
- |   
- |   
- |   
+
+**Instruments**
+
  |
-| 
 
-in C (hoch)
+**Transposition with respect to  
+a) notation  
+b) sounding pitch**
 
- | 
+ |
 
-Pikkoloflöte,  
- Glockenspiel, Celesta
+**A sounding c'  
+is notated as**
 
- | 
+ |
 
-a) Klang eine reine Oktave höher  
- b) Notierung eine reine Oktave tiefer
+**A notated c'  
+sounds as**
 
- | 
+ | |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ | |
+
+in C (high)
+
+ |
+
+piccolo,  
+glockenspiel, celesta
+
+ |
+
+a) sounds a perfect octave higher  
+b) notated a perfect octave lower
+
+ |
 
 c
 
- | 
+ |
 
 c''
 
+ | |
+
+&nbsp;
+
  |
-|   
- |   
- |   
- |   
- |   
+
+&nbsp;
+
  |
-| 
 
-in Es (hoch)
+&nbsp;
 
- | 
+ |
 
-Kleine Klarinette
+&nbsp;
 
- | 
+ |
 
-a) Klang eine kleine Terz höher  
- b) Notierung eine kleine Terz tiefer
+&nbsp;
 
- | 
+ | |
+
+in E-flat (high)
+
+ |
+
+E-flat clarinet (soprano, sopranino, piccolo)
+
+ |
+
+a) sounds a minor third higher  
+b) notated a minor third lower
+
+ |
 
 a
 
- | 
+ |
 
-es'
+e-flat'
+
+ | |
+
+&nbsp;
 
  |
-|   
- |   
- |   
- |   
- |   
+
+&nbsp;
+
  |
-| 
 
-in D (hoch)
+&nbsp;
 
- | 
+ |
 
-Kleine Trompete
+&nbsp;
 
- | 
+ |
 
-a) Klang eine grosse Sekunde höher  
- b) Notierung eine grosse Sekunde tiefer
+&nbsp;
 
- | 
+ | |
 
-b
+in D (high)
 
- | 
+ |
+
+trumpet in D
+
+ |
+
+a) sounds a major second higher  
+b) notated a major second lower
+
+ |
+
+b-flat
+
+ |
 
 d'
 
+ | |
+
+&nbsp;
+
  |
-|   
- |   
- |   
- |   
- |   
+
+&nbsp;
+
  |
-| 
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ | |
 
 in C
 
- | 
+ |
 
-alle nicht  
- transponierenden  
- Instrumente (z. B.  
- Violine, Klavier,  
- Flöte, Posaune etc.
+all non-  
+transposing  
+instruments (violin, piano,  
+flute, trombone, etc.)
 
- | 
+ |
 
-a) Klang wie Notierung  
- b) Notierung wie Klang
+a) sounds as notated  
+b) notated as sounds
 
- | 
-
-c'
-
- | 
+ |
 
 c'
 
  |
-|   
- |   
- |   
- |   
- |   
+
+c'
+
+ | |
+
+&nbsp;
+
  |
-| 
 
-in B
+&nbsp;
 
- | 
+ |
 
-Trompete, Flügelhorn,  
- Klarinette,  
- Sopransaxophon
+&nbsp;
 
- | 
+ |
 
-a) Klang eine grosse Sekunde tiefer  
- b) Notierung eine grosse Sekunde höher
+&nbsp;
 
- | 
+ |
+
+&nbsp;
+
+ | |
+
+in B-flat
+
+ |
+
+trumpet, flugelhorn,  
+clarinet,  
+soprano saxophone
+
+ |
+
+a) sounds a major second lower  
+b) notated a major second higher
+
+ |
 
 d'
 
- | 
+ |
 
-b
+b-flat
+
+ | |
+
+&nbsp;
 
  |
-|   
- |   
- |   
- |   
- |   
+
+&nbsp;
+
  |
-| 
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ | |
 
 in A
 
- | 
+ |
 
-Klarinette
+clarinet in A
 
- | 
+ |
 
-a) Klang eine kleine Terz tiefer  
- b) Notierung eine kleine Terz höher
+a) sounds a minor third lower  
+b) notated a minor third higher
 
- | 
+ |
 
-es'
+e-flat'
 
- | 
+ |
 
 a
 
+ | |
+
+&nbsp;
+
  |
-|   
- |   
- |   
- |   
- |   
+
+&nbsp;
+
  |
-| 
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ | |
 
 in G
 
- | 
+ |
 
-Altflöte
+alto flute
 
- | 
+ |
 
-a) Klang eine reine Quarte tiefer  
- b) Notierung eine reine Quarte höher
+a) sounds a perfect fourth lower  
+b) notated a perfect fourth higher
 
- | 
+ |
 
 f'
 
- | 
+ |
 
 g
 
+ | |
+
+&nbsp;
+
  |
-|   
- |   
- |   
- |   
- |   
+
+&nbsp;
+
  |
-| 
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ | |
 
 in F
 
- | 
+ |
 
-Horn,  
- Englisch Horn
+French horn (horn),  
+English horn (cor anglais)
 
- | 
+ |
 
-a) Klang eine reine Quinte tiefer  
- b) Notierung eine reine Quinte höher
+a) sounds a perfect fifth lower  
+b) notated a perfect fifth higher
 
- | 
+ |
 
 g'
 
- | 
+ |
 
 f
 
+ | |
+
+&nbsp;
+
  |
-|   
- |   
- |   
- |   
- |   
+
+&nbsp;
+
  |
-| 
 
-in Es
+&nbsp;
 
- | 
+ |
 
-Altsaxophon,  
- Horn, Althorn,  
- Es-Trompete
+&nbsp;
 
- | 
+ |
 
-a) Klang eine grosse Sexte tiefer  
- b) Notierung eine grosse Sexte höher
+&nbsp;
 
- | 
+ | |
+
+in E-flat
+
+ |
+
+alto saxophone,  
+French horn, alto horn (tenor horn),  
+E-flat trumpet
+
+ |
+
+a) sounds a major sixth lower  
+b) notated a major sixth higher
+
+ |
 
 a'
 
- | 
+ |
 
-es
+e-flat
+
+ | |
+
+&nbsp;
 
  |
-|   
- |   
- |   
- |   
- |   
+
+&nbsp;
+
  |
-| 
 
-in C (tief)
+&nbsp;
 
- | 
+ |
 
-Gitarre, Laute,  
- Bassgitarre,  
- Kontrabass,  
- Kontrafagott
+&nbsp;
 
- | 
+ |
 
-a) Klang eine reine Oktave tiefer  
- b) Notierung eine reine Oktave höher
+&nbsp;
 
- | 
+ | |
+
+in C (low)
+
+ |
+
+guitar, lute,  
+bass guitar,  
+double bass,  
+contrabassoon (double bassoon)
+
+ |
+
+a) sounds a perfect octave lower  
+b) notated a perfect octave higher
+
+ |
 
 c''
 
- | 
+ |
 
 c
 
+ | |
+
+&nbsp;
+
  |
-|   
- |   
- |   
- |   
- |   
+
+&nbsp;
+
  |
-| 
 
-in B (tief)
+&nbsp;
 
- | 
+ |
 
-Tenorhorn,  
- Tenorsaxophon,  
- Bassklarinette,  
- Basstrompete
+&nbsp;
 
- | 
+ |
 
-a) Klang eine grosse None tiefer  
- b) Notierung eine grosse None höher
+&nbsp;
 
- | 
+ | |
+
+in B-flat (low)
+
+ |
+
+baritone,  
+tenor saxophone,  
+bass clarinet,  
+bass trumpet
+
+ |
+
+a) sounds a major ninth lower  
+b) notated a major ninth higher
+
+ |
 
 d''
 
- | 
+ |
 
-b
+b-flat,
+
+ | |
+
+&nbsp;
 
  |
-|   
- |   
- |   
- |   
- |   
+
+&nbsp;
+
  |
-| 
 
-in Es (tief)
+&nbsp;
 
- | 
+ |
 
-Baritonsaxophon
+&nbsp;
 
- | 
+ |
 
-a) Klang eine grosse Dezime tiefer  
- b) Notierung eine grosse Dezime höher
+&nbsp;
 
- | 
+ | |
+
+in E-flat (low)
+
+ |
+
+baritone saxophone
+
+ |
+
+a) sounds one octave and a major sixth lower  
+b) notated one octave and a major sixth higher
+
+ |
 
 a''
 
- | 
+ |
 
-es
+e-flat,
 
  |
