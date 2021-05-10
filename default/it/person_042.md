@@ -1,9 +1,8 @@
-#### Codice di autenticazione (042 $a)
+#### Authentication code (042 $a)
 
-Questo campo riporta se la notizia è stata differenziata dalla Redazione centrale RISM. Notizie differenziate si riferiscono a una persona concreta e notizie indifferenziate non si possono (ancora) collegare a un individuo.   
-  
-I codici disponibili sono: &nbsp;
+This field identifies whether the entry has been differentiated by the RISM Editorial Center. Differentiated entries refer to a concrete person and undifferentiated entries cannot (yet) be connected to an individual.
 
-- differenziato
-- indifferenziato
-- ignoto
+Available codes are: &nbsp;
+
+- differentiated
+- undifferentiated
