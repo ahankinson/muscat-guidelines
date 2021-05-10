@@ -1,6 +1,6 @@
-**Ora in (MARC 580)**
+**Now in (MARC 580 $x)**
 
-Inserisci qui la sigla RISM per l’istituzione proprietaria.
+If the holdings of an institution have been transferred to another institution, enter the name of the current holding institution here.
 
-_Esempio:_  
-D-KA
+_Example:_  
+D-WÜd
