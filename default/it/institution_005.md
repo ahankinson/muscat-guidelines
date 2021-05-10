@@ -1,3 +1,3 @@
-**Data e ora dell'ultima transazione (MARC 005; ISDIAH 5.6.6)**
+#### **Date and time of last transaction (MARC 005; ISDIAH 5.6.6)**
 
-Questo campo riporta la data in cui la scheda è stata modificata per l’ultima volta. Questo campo è generato automaticamente.&nbsp;
+This field shows the date that the record was last modified.&nbsp;This field is automatically generated.
