@@ -1,73 +1,83 @@
-### **La barra di menu superiore**
+### The top menu bar
 
-**Amministrazione** collega alla configurazione MARC, che ti permette di visualizzare tutti i campi MARC utilizzati in Muscat (per le fonti e per le liste di voci d’autorità).
+**Administration** links to the MARC configuration, which lets you view all the MARC fields used in Muscat (sources plus authority files)
 
-**Lingue** ti permette di cambiare la lingua di Muscat.
+**Language** allows you to switch the language of Muscat.
 
-**Commenti** ti permette di vedere tutti i commenti allegati alle schede Muscat. Puoi visualizzare commenti di tutti gli utenti e commentare su qualsiasi scheda. Puoi soltanto cancellare i tuoi propri commenti.
+The **Dashboard** displays your recent records in Muscat.
 
-Puoi gestire le **cartelle** selezionando delle schede, passando su **Azioni multiple** sopra la lista delle schede, e creare con esse una nuova cartella oppure aggiungerle a una cartella esistente. Visualizza la tua cartella trovandola con i filtri sulla destra sotto **è nella cartella**. Da lì puoi ordinare le schede ed effettuare ricerche come di consueto. Rimuovi le tue cartelle a partire dalla opzione&nbsp; **Cartelle** nella barra di menu.
+**Comments** allow you to see all comments attached to Muscat records. You can view comments from all users and comment on any record. Name other users by typing **@** plus their name to include them in the conversation.
 
-La **Ricerca per categorie** ti permette di effettuare ricerche sulle medesime fonti ma con più criteri di ricerca: una ricerca semplice con dei limiti e una ricerca avanzata con molti campi a disposizione. Se sei abilitato a modificare una scheda che vedi nella ricerca per categorie, comparirà un collegamento che ti porta alla modalità di redazione Muscat. Altrimenti, ritorna a Muscat facendo clic su&nbsp; **Catalogazione**. **Home** ti riporta alla pagina web della Redazione centrale RISM.
+**Folders** allow you to see all folders created by Muscat users.
 
-La pagina&nbsp; **Fonti** è la pagina principale dalla quale puoi accedere alle schede bibliografiche con la descrizione delle fonti.
+The **Faceted search** allows you to search the same sources but with more search criteria: a simple search with limits and an advanced search with many fields available. If you have the permissions to edit a record you see in the faceted search, there will be a link to take you to the Muscat editing mode. Otherwise, return to Muscat by clicking on **Cataloguing**. **Home** takes you back to the RISM Zentralredaktion website.
 
-**Indici** ti porta a tutte le liste di voci d’autorità, ai vocabolari controllati e agli indici di Muscat. Vedi nelle **Regole di catalogazione generali: Indici** per maggiori informazioni.
+The **Sources** page is the main page from which you access the bibliographic records for source descriptions.
 
-**Documentazione** ti permette di visualizzare tutte le regole di catalogazione su una pagina. È qui che ti trovi in questo momento.
+**Authorities** takes you to all authority files, controlled vocabulary, and indexes in Muscat. See **General cataloging guidelines: Authorities** for more information.
 
-  
+**Guidelines** lets you see all the guidelines on one page. That's where you are now.
 
-### Gruppi e impostazioni in modalità di redazione
 
-La colonna di navigazione a destra permette di navigare a gruppi specifici della scheda, così come di salvare e visualizzare il tuo lavoro.
 
-Utilizza **i collegamenti** in cima per navigare a un gruppo della scheda. Redigendo un singolo gruppo, il tuo lavoro verrà conservato se passi a un diverso gruppo o se fai clic su **Mostra tutti i gruppi**. (Ma ricorda di salvare il tuo lavoro prima di lasciare la modalità di redazione!)
 
-**Mostra tutti i gruppi** ti permette di visualizzare tutte le sezioni della scheda. Questo è utile quando desideri tornare a redigere l’intera scheda dopo aver lavorato su un gruppo specifico.&nbsp;
+### Sections and actions in the editing mode
 
-**Mostra anteprima** ti permette di visualizzare la scheda senza salvarla. Per tornare alla modalità di redazione, fai clic su **Nascondi anteprima**.
+This refers to actions you can take when editing a source record.
 
-**Salva e continua** ti permette di salvare il tuo lavoro e proseguire nella modalità di redazione. Salva di frequente per evitare di perdere il tuo lavoro. Al primo salvataggio viene automaticamente assegnato un numero RISM.
+The navigation column on the right allows you to jump to specific sections of the record and save and view your work.
 
-**Salva ed esci** ti porta indietro alla schermata precedente e salva il tuo lavoro.
+Use the **links** at the top to jump to a section of the record. When editing a single section, your work will be retained if you jump to a different section or if you click on **Show all sections**. (But remember to save your work before leaving the editing mode!)
 
-**Annulla** ti porta indietro alla schermata precedente senza salvare il tuo lavoro.
+**Show all sections** lets you view all sections of the record. This is useful for when you want to return to editing the full record after working on a specific section.
 
-**Mostra lo storico** ti permette di visualizzare, ripristinare&nbsp;e cancellare versioni precedenti della scheda. Fai clic su **Mostra tutti i gruppi** per tornare alla modalità di redazione e a ogni eventuale modifica non salvata.
+**Show preview** lets you view the record without saving. To return to editing mode, click **Hide preview**.
 
-**Aggiungi una nuova immagine** ti permette di caricare piccole immagini (solitamente filigrane, esempi di calligrafia o rilegature) da allegare alle tue schede. Tutte le immagini si trovano nel menu **Indici** alla voce **Immagini**.
+**Validate** checks for errors in the record.
 
-### Bottoni nella modalità di redazione
+**Save and continue editing** allows you to save your work and continue in the editing mode. Save frequently to prevent you from losing your work. After a record is first saved, the RISM number is assigned automatically.
 
-**Lente d’ingrandimento** : Fai clic qui per effettuare una ricerca nella lista di voci d’autorità collegata a questo campo. Si aprirà una nuova finestra. Dopo che hai trovato quello che cerchi, fai clicc su **Seleziona** ( **Select** ) per trasferire i dati alla tua scheda.
+**Save and close** brings you back to the previous screen while saving your work.
 
-**Punto interrogativo (?)**: Vengono visualizzate le regole di catalogazione RISM per questo campo.
+**Cancel** brings you back to the previous screen without saving.
 
-**Segno più (+)**: I campi ripetibili hanno un segno più (+). Fai clic sul + per creare un nuovo campo vuoto. All’interno di un gruppo i campi possono essere ordinati manualmente facendo clic e trascinandoli. Inoltre, si può ripetere anche il gruppo **Descrizione del materiale**.
+**Show modification history** allows you to view, restore, and delete previous versions of the record. Click **Show all sections** again to return to the editing mode and any unsaved changes.
 
-**Cestino** : Cancella un campo facendo clic sul cestino.
-
-**Freccia** : Fai clic sulla freccia per espandere o nascondere un campo.
-
-**Aggiungi un gruppo** : Questo bottone si trova alla fine della sezione&nbsp; **Descrizione del materiale**. Con più gruppi puoi associare diverse date, formati, filigrane, nomi, istituzioni ecc. a diversi tipi di fonti (o qualsiasi altro modo da te scelto per descrivere il tuo materiale). Alcuni di questi campi, come&nbsp;**Nomi di persone aggiuntivi (700), Nome di ente (710)**, e&nbsp;**Osservazioni (500)** si trovano anche altrove nei template per le fonti. Usa il buon senso per decidere dove collocare queste informazioni: si riferiscono all'intera fonte, oppure soltanto a questo gruppo di materiale?
-
-### Altre funzioni nella modalità di redazione
-
-**Autocompletamento** : Se un campo contiene una chiave, significa che è collegato al file d’autorità o indice. Inizia a digitare e utilizza l’autocompletamento per aiutarti.
-
-**Aggiungere nuovi nomi, titoli, termini standard, ecc.** : Se non trovi quello di cui hai bisogno nel file d’autorità o indice, inserisci semplicemente il nome o titolo che desideri. Non appena fai click su un altro campo, compare un bordo arancione attorno ai campi e vedrai una casella da spuntare con la dicitura “Conferma l’inserimento di un valore nuovo” (Confirm the insertion of a new value). Fai click su questa casella per confermare. Per i nomi di persona, comparirà un campo chiamato **Data di nascita e di morte**. Compila questo campo, se possibile, perché aiuta la Redazione centrale a creare una nuova scheda d’autorità. Quando salvi, il nome o titolo verrà aggiunto automaticamente al file d’autorità. Vedi anche nelle **Regole generali di catalogazione** sotto **Persone**.
-
-**Campi obbligatori e validazione** : Quando inizi una nuova scheda, i campi più importanti sono già aperti e pronti ad accogliere la tua immissione. I campi&nbsp;a sfondo giallo sono obbligatori. Se salvi senza riempire uno di questi campi, apparirà un bordo rosso attorno ai campi che richiedono la tua attenzione, e le sezioni che contengono questi campi compariranno in rosso sulla colonna di navigazione a destra. In caso non vi sia alcuna informazione per riempire un campo obbligatorio, si può ignorare la validazione spuntando una casella nella colonna di navigazione.
+**Attach a new image** lets you upload small images (usually watermarks, handwriting samples, or bindings) to attach to your records. All images can be found in the **Authorities** menu under **Digital objects**.
 
 &nbsp;
 
-### Azioni nella modalità di visualizzazione   
+### Buttons in the editing mode
 
-**Crea** : Questo ti porta alla pagina di selezione del modello, a partire dalla quale puoi creare una nuova scheda.
+**Magnifying glass** : Click here to search the authority file linked to the field. A separate window will open up. After you find what you need, click **Select** to make the transfer to your record.
 
-**Ritorna all’indice:** Questo ti riporta alla lista completa di tutte le fonti musicali.
+**Question mark (?)**: The RISM guidelines for this field are displayed.
 
-**Modifica** : Se sei abilitato alla redazione della scheda, vedrai questo bottone di modifica.
+**Plus sign (+)**: Fields that may be repeated have a plus sign (+). Click on the + to create a new, empty field. Fields may be reordered in this section by clicking and dragging them.&nbsp;
 
-**Duplica** : Nella modalità di visualizzazione, una scheda può essere duplicata facendo click su questo bottone. Se necessario, puoi ora riempire il campo **Item principale** **(773)** per collegare la scheda alla scheda principale della raccolta.
+**Trash can** : Delete a field by clicking on the trash can.
+
+**Arrow** : Click on the arrow to expand or collapse fields.
+
+**Add a group** : This button is found at the bottom of the section **Material description**. With different groups, you can associate different dates, formats, watermarks, names, institutions, etc. with different types of sources (or however you choose to describe your material). Some of these fields, such as **Additional personal name (700)**,**Additional institution (710)**, and **General note (500)**are also found elsewhere in the Sources template. Use your best judgment to decide where to place such information: does it apply to the entire source, or just this group of material?
+
+### Other functions in the editing mode
+
+**Autocomplete** : If you see a field that contains a key, the field is linked to the authority file or index. Begin typing and use the autocomplete to help you.
+
+**Adding new names, titles, subject headings, etc.** : If you do not find what you need in the authority files, simply enter the name or term you need. Once you click to a different field, an orange border appears around the fields and you will see a checkbox that reads "Confirm the insertion of a new value." Click this box to confirm. For personal names, a field called **Life dates** will appear. Please fill this out if you can because it helps the Editorial Center create a new authority record. When you save, the name or title will be automatically added to the authority files. See also **General Cataloging Guidelines** under **Personal names.**
+
+**Required fields and validation** : When you begin a new record, the most important fields will already be open and ready for you to fill in. Fields that are yellow are required fields. If you save without filling out one of these fields, a red border will appear around the fields that still need attention, and the sections in which the fields occur will be red in the sidebar on the right. In cases where no information can be filled out in a required field, the validation may be overridden by checking a box in the sidebar.
+
+&nbsp;
+
+### Actions in the viewing mode
+This refers to actions you can take when viewing the full record.
+
+**Create:** This brings you to the template selection page from which you can create a new record.
+
+**Return to the list:** This brings you back to the full list of all musical sources.
+
+**Edit:** If you have permissions to edit the record, you will see this edit button.
+
+**Duplicate** : In the viewing mode, a record may be duplicated by clicking on this button. If necessary you can then fill out the field **Parent record (773)** to link the record to the main collection record.
