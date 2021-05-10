@@ -1,0 +1,2 @@
+**Position (Marc 034)**  
+Um die&nbsp;Position der&nbsp;Körperschaft auf einer Landkarte zu fixieren, tragen&nbsp;Sie hier die Codes für den&nbsp;Längen- und Breitengrad ein, die Sie&nbsp;der Webseite google maps entnehmen können:&nbsp;[http://https//www.google.de/maps](http://https://www.google.de/maps)

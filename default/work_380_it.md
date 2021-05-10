@@ -1,0 +1,2 @@
+#### **Parola chiave (380 $a****; numero di registro&nbsp;****RDA&nbsp;[rdaw:P10](http://www.rdaregistry.info/Elements/w/#P10004)[004](http://www.rdaregistry.info/Elements/w/#P10004)****)**
+Inserisci qui&nbsp;le parole chiavi o le denominazioni dei&nbsp;generi musicali. Questo campo è collegato all’indice&nbsp; **Parole chiave**.
