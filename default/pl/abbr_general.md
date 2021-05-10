@@ -1,1089 +1,979 @@
-### &nbsp;Skróty i terminy ogólne  
+### &nbsp;General abbreviations and terms
 
-Są to ogólne skróty i terminy, które występują w całym programie Muscat. Podczas wypełniania wolnych pól tekstowych, w miarę możliwości należy wpisywać terminy w pełnym brzmieniu. Może to pomóc innym użytkownikom, którzy mogą nie znać skrótów stosowanych w programie Muscat
-
-&nbsp;
+These are some general abbreviations and terms you might come across throughout Muscat. When writing in free-text fields, it is good practice to write out terms in full when possible for the benefit of other users who may not be familiar with these abbreviations.
 
 &nbsp;
 
 &nbsp;
 
-| 
+&nbsp;
 
-**Termin**
+|
 
- | 
-
-**Znaczenie&nbsp;**
+**Term**
 
  |
-| 
+
+**Meaning**
+
+ | |
 
 acc
 
- | 
-
-akompaniament&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
  |
-| 
+
+accompaniment
+
+ | |
 
 appx
 
- | 
-
-załącznik&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
  |
-| 
+
+appendix
+
+ | |
 
 Arr, arr.
 
- | 
-
-aranżacja&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
  |
-| 
+
+arrangement
+
+ | |
 
 Autograph
 
- | 
-
-autograf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
  |
-| 
+
+autograph manuscript
+
+ | |
 
 ?Autograph?
 
- | 
+ |
 
-przypuszczalnie autograf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+possible autograph manuscript
+
+ | |
+
+&nbsp;
 
  |
-| 
 
- | 
+&nbsp;
 
- |
-| 
+ | |
 
 b.fig
 
- | 
-
-basso continuo
-
  |
-| 
 
-&nbsp;
+figured bass on a bass part
 
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 
 cfr.
 
- | 
-
-por.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
  |
-| 
+
+compare
+
+ | |
 
 Chb
 
- | 
-
-księga chórowa (dotyczy druków muzycznych)&nbsp;
-
  |
-| 
+
+choirbook (in printed music)
+
+ | |
 
 Chor-P
 
- | 
-
-partytura chóralna (dotyczy druków muzycznych)
-
  |
-| 
+
+chorus score (in printed music)
+
+ | |
 
 clm.
 
- | 
-
-kolumna&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
  |
-| 
+
+column
+
+ | |
 
 cm
 
- | 
-
-centymetr&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
  |
-| 
+
+centimeter
+
+ | |
 
 COL
 
- | 
-
-kolekcja (typ źródła w Muscat)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
  |
-| 
+
+collection (type of Muscat source)
+
+ | |
 
 collab.
 
- | 
-
-współpracownik&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-
  |
-| 
+
+collaborator
+
+ | |
 
 collection
 
- | 
-
-&nbsp;kolekcja rękopisów, kolekcja druków
-
  |
-| 
+
+manuscript collection, printed collection
+
+ | |
 
 comp.
 
- | 
-
-data kompozycji&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
  |
-| 
+
+date of composition
+
+ | |
 
 convolutum
 
- | 
-
-miscellanea, zespól dokumentów&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-
  |
-| 
 
-&nbsp;
+miscellany, bundle
 
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 
 ex.
 
- | 
-
-egzemplarze (dotyczy druków muzycznych)
-
  |
-| 
+
+copies (for printed music)
+
+ | |
 
 Excerpts
 
- | 
-
-wyjątek(-tki)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
  |
-| 
 
-&nbsp;
+excerpt(s)
 
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 
 deest
 
- | 
-
-deest (dotyczy katalogów dzieł)
-
  |
-| 
+
+not in (for catalogs of works)
+
+ | |
 
 dir.
 
- | 
-
-dyrygent&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
  |
-| 
+
+conductor
+
+ | |
 
 diss.
 
- | 
-
-rozprawa, dysertacja
-
  |
-| 
 
-&nbsp;
+dissertation
 
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 
 ed.
 
- | 
-
-redaktor, redagowany przez
-
  |
-| 
+
+editor, edited by, edition
+
+ | |
 
 edn.
 
- | 
-
-wydanie
-
  |
-| 
+
+edition
+
+ | |
 
 enl.
 
- | 
-
-wydanie powiększone/poszerzone
-
  |
-| 
+
+enlarged/expanded edition
+
+ | |
 
 et al.
 
- | 
-
-i inni&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
  |
-| 
+
+and others
+
+ | |
 
 etc.
 
- | 
-
-&nbsp;itp.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
  |
-| 
 
-&nbsp;
+et cetera
 
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 
 f.
 
- | 
-
-folio(-a)
-
  |
-| 
+
+folio(s)
+
+ | |
 
 facs.
 
- | 
-
-faksymile&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
  |
-| 
+
+facsimile
+
+ | |
 
 fasc.
 
- | 
-
-zeszyt, połączony zbiór dokumentów &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
-
  |
-| 
+
+fascicle, gathering
+
+ | |
 
 fds.
 
- | 
-
-składka(-i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
  |
-| 
 
-&nbsp;
+fold(s)
 
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 
 ibd., ibid
 
- | 
-
-tamże
-
  |
-| 
+
+in the same work cited above
+
+ | |
 
 idem
 
- | 
-
-tenże
-
  |
-| 
+
+by the same author
+
+ | |
 
 i.e.
 
- | 
-
-tj., np.
-
  |
-| 
+
+that is, for example
+
+ | |
 
 Incip.
 
- | 
+ |
 
 incipit
 
- |
-| 
+ | |
 
 incpl.or incpl
 
- | 
-
-incomplete - niekompletny
-
  |
-| 
 
-&nbsp;
+incomplete
 
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 
 Jg.
 
- | 
-
-rok
-
  |
-| 
+
+year
+
+ | |
 
 jun.
 
- | 
+ |
 
 junior
 
- |
-| 
-
-&nbsp;
-
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 
 keyboard (etc.) score
 
- | 
-
-zapis utworu na instrument klawiszowy - zazwyczaj na dwóch pięcioliniach. W niektórych przypadkach może zawierać również partię wokalną.
-
  |
-| 
+
+typically two staves with music arranged for keyboard instrument; in some cases may also include a vocal part
+
+ | |
 
 KLA
 
- | 
+ |
+
+piano score/vocal score (in printed music)
+
+ | |
+
+kpl.
 
  |
-| | 
 
-kompletny (dotyczy druków muzycznych)
+complete (in printed music)
 
- |
-| 
+ | |
 
 &nbsp;
 
- | 
+ |
 
 &nbsp;
 
- |
-| 
+ | |
 
 Lith.
 
- | 
-
-litografia
-
  |
-| 
+
+lithography
+
+ | |
 
 LPR
 
- | 
-
-libretto drukowane (typ źródła w Muscat)
-
  |
-| 
+
+printed libretto (type of Muscat source)
+
+ | |
 
 LMS
 
- | 
-
-libretto rękopiśmienne (typ źródła w Muscat)
-
  |
-| 
+
+handwritten libretto (type of Muscat source)
+
+ | |
 
 lvs.
 
- | 
-
-karty
-
  |
-| 
 
-&nbsp;
+leaves
 
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 
 MPR
 
- | 
-
-edycja druku muzycznego (typ źródła w Muscat)
-
  |
-| 
+
+printed music edition (type of Muscat source)
+
+ | |
 
 MMS
 
- | 
-
-rękopis muzyczny (typ źródła w Muscat)
-
  |
-| 
+
+music manuscript (type of Muscat source)
+
+ | |
 
 Ms., MS
 
- | 
-
-rękopis
-
  |
-| 
+
+manuscript
+
+ | |
 
 MSS
 
- | 
-
-rękopisy
-
  |
-| 
 
-&nbsp;
+manuscripts
 
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 
 no.
 
- | 
-
-numer
-
  |
-| 
+
+number
+
+ | |
 
 No title indicated
 
- | 
-
-tytułu nie podano
-
  |
-| 
 
-&nbsp;
+no title indicated
 
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 
 olim
 
- | 
-
-poprzednia sygnatura
-
  |
-| 
+
+former shelf mark
+
+ | |
 
 op.
 
- | 
+ |
 
 opus
 
- |
-| 
+ | |
 
 Orgel-P
 
- | 
-
-partytura organowa (dotyczy druków muzycznych)
-
  |
-| 
 
-&nbsp;
+organ score (in printed music)
 
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 
 P
 
- | 
-
-partytura (dotyczy druków muzycznych)
-
  |
-| 
+
+full score (in printed music)
+
+ | |
 
 p.
 
- | 
-
-strona(-y)
-
  |
-| 
+
+page(s)
+
+ | |
 
 part
 
- | 
-
-partia, głos
-
  |
-| 
 
-passim
+part
 
- | 
+ | |
 
 passim
 
  |
-| 
+
+over the next few pages
+
+ | |
 
 1.perf.
 
- | 
-
-data pierwszego wykonania
-
  |
-| 
+
+date of first performance
+
+ | |
 
 perf.
 
- | 
-
-data kolejnego wykonania
-
  |
-| 
+
+date of further performance
+
+ | |
 
 phil.
 
- | 
-
-filozoficzny
-
  |
-| 
+
+philosophical
+
+ | |
 
 Pl.no
 
- | 
-
-numer wydawniczy
-
  |
-| 
+
+plate number
+
+ | |
 
 pr.
 
- | 
-
-druk
-
  |
-| 
+
+print, printed
+
+ | |
 
 Prov.
 
- | 
-
-proweniencja, poprzedni właściciel (osoba lub instytucja)
-
  |
-| 
+
+provenance, previous owner (person or institution)
+
+ | |
 
 PUB
 
- | 
-
-opublikowany (status w Muscat)
-
  |
-| 
+
+published (Muscat status)
+
+ | |
 
 pub.
 
- | 
-
-opublikowany
-
  |
-| 
+
+published
+
+ | |
 
 publ.
 
- | 
-
-data wydania
-
  |
-| 
 
-&nbsp;
+date of publication
 
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 
 repr.
 
- | 
-
-zreprintowany, reprint
-
  |
-| 
+
+reprinted, reprint
+
+ | |
 
 rev.
 
- | 
-
-(wydanie) poprawione
-
  |
-| 
+
+revised (edition)
+
+ | |
 
 RISM A/I
 
- | 
-
-odsyłacz krzyżowy do serii A/I RISM
-
  |
-| 
+
+cross-reference to RISM series A/I
+
+ | |
 
 RISM B/
 
- | 
-
-odsyłacz krzyżowy do serii B RISM
-
  |
-| 
+
+cross-reference to RISM series B
+
+ | |
 
 Role
 
- | 
-
-rola
-
  |
-| 
 
-&nbsp;
+role
 
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 
 score(s)
 
- | 
-
-partytura(--y)
-
  |
-| 
+
+score(s)
+
+ | |
 
 s.d. (sine dato)
 
- | 
-
-niedatowany
-
  |
-| 
+
+without date
+
+ | |
 
 ser.
 
- | 
-
-seria
-
  |
-| 
+
+series
+
+ | |
 
 short score(s)
 
- | 
-
-partytura(-y) zredukowana(-e)
-
  |
-| 
+
+piano reduction(s) or condensed score(s)
+
+ | |
 
 sketches
 
- | 
-
-szkic(-e)
-
  |
-| 
+
+sketch(es)
+
+ | |
 
 s.l. (sine loco)
 
- | 
-
-bez miejsca wydania
-
  |
-| 
+
+without place (in published works)
+
+ | |
 
 s.n. (sine nomine)
 
- | 
-
-bez nazwy (dotyczy dzieł opublikowanych)
-
  |
-| 
+
+without name (in published works)
+
+ | |
 
 St
 
- | 
-
-partie (dotyczy druków muzycznych)
-
  |
-| 
+
+parts (in printed music)
+
+ | |
 
 suppl., supp.
 
- | 
-
-suplement
-
  |
-| 
 
-&nbsp;
+supplement
 
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 
 t
 
- | 
-
-transkrybowany incipit
-
  |
-| 
+
+incipit is transcribed
+
+ | |
 
 Tab
 
- | 
-
-tabulatura (dotyczy druków muzycznych)
-
  |
-| 
+
+tablature (in printed music)
+
+ | |
 
 theoreticum
 
- | 
-
-traktat
-
  |
-| 
+
+treatise
+
+ | |
 
 TMS
 
- | 
-
-traktat rękopiśmienny (typ źródła w Muscat)
-
  |
-| 
+
+handwritten treatise (type of Muscat source)
+
+ | |
 
 TPR
 
- | 
-
-traktat drukowany (typ źródła w Muscat) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
  |
-| 
+
+printed treatise (type of Muscat source)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+ | |
 
 trans.
 
- | 
-
-tłumaczenie, przełożył
-
  |
-| 
 
-&nbsp;
+translation, translated by
 
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 
 UNP
 
- | 
-
-nieopublikowany (status w Muscat)
-
  |
-| 
 
-&nbsp;
+unpublished (Muscat status)
 
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 
 vide
 
- | 
-
-patrz
-
  |
-| 
+
+see
+
+ | |
 
 vol.
 
- | 
-
-tom(y)
-
  |
-| 
 
-&nbsp;
+volume(s)
 
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 
 Without title
 
- | 
-
-without title - bez tytułu
-
  |
-| 
+
+without title
+
+ | |
 
 without shelfmark
 
- | 
-
-without shelfmark - bez sygnatury
-
  |
-| 
+
+without shelfmark
+
+ | |
 
 wm., wm:
 
- | 
-
-watermark - znak wodny
-
  |
-| 
+
+watermark
+
+ | |
 
 WV
 
- | 
-
-catalog of works - katalog dzieł
-
  |
-| 
 
-&nbsp;
+catalog of works
 
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 
 \*
 
- | 
-
-born - ur.
-
  |
-| 
 
-+
+born
 
- | 
+ | |
 
-died - zm.
++  |
 
- |
-| 
+died
 
-+
+ | |
 
- | 
++  |
 
-mistakes within incipit corrected - błędy w incipicie poprawione
+mistakes within incipit corrected
 
- |
-| 
+ | |
 
 ?
 
- | 
-
-mistakes within incipit not corrected - błędy w incipicie niepoprawione
-
  |
-| 
 
-&nbsp;
+mistakes within incipit not corrected
 
- | 
+ | |
 
 &nbsp;
 
  |
-| 
 
 &nbsp;
 
- | 
+ | |
 
 &nbsp;
 
  |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+&nbsp;

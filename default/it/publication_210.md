@@ -1,35 +1,35 @@
-**Abbreviazione** **(210)**
+**Short title (210 $a)**&nbsp;
 
-**Campo obbligatorio.**
+**Required field.**
 
-Ogni titolo della bibliografia di riferimento riceve un titolo abbreviato univoco per permettere dei rinvii semplici in tutte le schede RISM. Controlla sempre per assicurarti che un titolo abbreviato non sia già in uso.   
-  
-Qui di seguito si descrive come creare abbreviazioni per **bibliografia generale di riferimento** , **cataloghi delle opere** e **casi speciali**.
+Each item of secondary literature receives a unique short title to enable easy reference throughout RISM records. Always check first to make sure a short title is not already in use.
 
-**Bibliografia generale di riferimento**  
-Titoli abbreviati per la **b**** ibliografia generale di riferimento** si creano come segue:
+The following will describe how to create short titles for **general secondary literature** , **catalogs of works** , and **special cases**.
 
-- **Cognome** dell_'_autore o curatore  
-_Cognomi col trattino o composti sono scritti per esteso._  
-- **Iniziale** di una parola-chiave del titolo, in maiuscolo  
-_Solitamente il nome del compositore o il luogo, altrimenti seleziona un'altra parola importante_  
-- **Spazio**
-- **Anno** di pubblicazione
+**General secondary literature**    
+Short titles for **general secondary literature** are made up as follows:
 
-_Esempi:_
+- **Last name** of the author or editor  
+  _Hyphenated or compound last names are written out in full._
+- **Beginning letter** of a keyword from the title, capitalized  
+  _Usually the name of the composer or the place, otherwise select a different important word_
+- **Space**
+- **Year** of publication
+
+_Examples:_
 
 > Pieter Dirksen, _Heinrich Scheidemann’s Keyboard Music: Transmission, Style and Chronology_ (Aldershot: Ashgate, 2007).  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → DirksenS 2007  
 > Peter Wollny, “Zur stilistischen Entwicklung des geistlichen Konzerts in der Nachfolge von Heinrich Schütz,” _Schütz-Jahrbuch_ 23 (2001): 7-32.  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → WollnyS 2001  
-> Rita Fischer-Wildhagen, _Adalbert Gyrowetz (1763-1850), Kapellmeister der k.k. Hoftheater in Wien_ (Egelsbach; Hänsel-Hohenhausen, 1999).  
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → Fischer-WildhagenG 1999
+> Rita Fischer-Wildhagen, _Adalbert Gyrowetz (1763-1850), Kapellmeister der k.k. Hoftheater in Wien_ (Egelsbach; Hänsel-Hohenhausen, 1999).  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → Fischer-WildhagenG 1999  
+> Soterraña Aguirre Rincón, "The Formation of an Exceptional Library: Early Printed Music Books at Valladolid Cathedral," _Early Music_ 37, no. 3 (August 2009): 379–400.  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → Aguirre RincónV 2009
 
-  
-Per autori o curatori che pubblicano più articoli sullo stesso compositore o più opere dello stesso compositore, si aggiunge una lettera ( **a** , **b** , **c** ecc.) dopo l'anno.  
-  
-_Esempi:_  
-  
+
+For authors or editors who publish multiple articles about the same composer or multiple works by the same composer, a letter ( **a** , **b** , **c** , etc.) is added to the end of the year.  
+_Examples:_
 
 > Anton Cajetan Adlgasser, _Litaniae de venerabili altaris sacramento in B-Dur (WV 3.53),_ ed. Armin Kircher (Stuttgart: Carus, 2005).  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → KircherA 2005  
@@ -40,61 +40,59 @@ _Esempi:_
 > Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag,_ ed. Armin Kircher (Stuttgart: Carus, 2005). [piano score]  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → KircherE 2005c
 
-  
-Per due o più autori o curatori, si usa solo il primo nell'abbreviazione.  
-  
-_Esempio:_  
+
+For two or more authors or editors, only the first is used in a short title.  
+_Example:_
 
 > John Alexander Fuller-Maitland and Arthur Henry Mann, Catalogue of the Music in the Fitzwilliam Museum (London: C.J. Clay, 1893).  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → Fuller-MaitlandF 1893
 
-  
-Se non è indicato nessun autore, usa 1-2 parole-chiave dal titolo al suo posto.  
-  
-_Esempio:_
+
+
+If no author is named, use 1-2 keywords from the title in its place.  
+_Example:_
 
 > _Verzeichnis der von dem verstorbenen Grossh. Badischen Prof. der Rechte und Geheimrathe Dr. Anton Friedrich Justus Thibaut zu Heidelberg hinterlassenen Musikaliensammlung welche als ein Ganzes ungetrennt veräussert werden soll_ (Heidelberg, 1842).  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → VerzeichnisThibaut 1842
 
-  
 
-Per opere in più volumi pubblicate nel corso di vari anni, si usa solo il primo anno.
 
-_Esempio:_
+For multivolume works that were published over the course of several years, only the first year is used.  
+_Example:_
 
 > Otto Schröder, _J. Walter: Sämtliche Werke,_ 6 vols. (Kassel: Bärenreiter, 1943-73).  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → SchröderW 1943
 
-Se l'anno di pubblicazione non è indicato né ricostruibile, scrivi **n.d.** (per 'no date') invece dell'anno.
+If the year of publication is neither given nor ascertainable, write **s.d.** (for no date) instead of a year.
 
-_Esempio:_
+_Example:_
 
-> Josef Gregor Zangl, _Der katholische Orgelfreund aus Tyrol: Sammlung von 26 Orgelstücken verschiedener Gattung&nbsp;_ (Innsbruck, n.d.).  
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → ZanglO n.d.
+> Josef Gregor Zangl, _Der katholische Orgelfreund aus Tyrol: Sammlung von 26 Orgelstücken verschiedener Gattung&nbsp;_ (Innsbruck, no date).  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → ZanglO s.d.
 
-  
+
 If only an approximate year of publication is known, add a **ca.** (for circa) when you enter the publisher and publication year in the record, but omit the “ca.” in the short title.  
-_Example:_  
+_Example:_
 
 > Philipp Fahrbach (der Ältere), _Kärnthner-Lieder Walzer für das Piano-Forte [...] op. 230_ (Vienna, C.A. Spina, ca. 1850).  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → FahrbachK 1850
 
-Per abbreviazioni di enciclopedie o serie ben note, utilizza le abbreviazioni correnti (MGG, Thieme-Becker, DTÖ, FTA, Stuttgarter Schütz-Ausgabe).
+For the short titles of well-known encyclopedias or sets, use the well-established abbreviations or terms (MGG, Thieme-Becker, DTÖ, FTA, Stuttgarter Schütz-Ausgabe).
 
 &nbsp;
 
-**Cataloghi di opere**
+**Catalogs of works**
 
-Abbreviazioni per **cataloghi di opere** sono composte da:
+Short titles for **catalogs of works** are made of:
 
-- **Le prime tre lettere** del cognome dell'autore o curatore
-- **La prima lettera** del cognome del compositore, in maiuscolo
+- **First three letters** of the last name of the author or editor
+- **First letter** of the composer’s last name, capitalized
 
-Non è necessario indicare l'anno.
+No year is needed.
 
-Un catalogo pubblicato come parte di un'opera di più ampio respiro, come un'appendice in un libro, può essere inserito come un catalogo di opere. Simili oggetti possono anche essere citati come un riferimento bibliografico&nbsp;**(691****)**.&nbsp;
+A catalog that is published as a part of a larger item, such as an appendix in a book, may be entered as a catalog of works. Such items can also be cited as a **Bibliographic reference (691)**.
 
-_Esempi:_
+_Examples:_
 
 > A. Craig Bell, _Handel: Chronological Thematic Catalogue_ (Darley: Grain-Aig Press, 1972).  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → BelH  
@@ -105,9 +103,8 @@ _Esempi:_
 > Bruno Scheithauer, _Verzeichniss sämtlicher gedruckten Werke Dr. Carl Loewe’s_ (Berlin, 1886).  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → SchL
 
-Utilizza le abbreviazioni correnti, se esistono (BWV, KV, Hob. ecc.). Puoi anche usare l'abbreviazione usata nel catalogo stesso se non porta a confusione.&nbsp;   
-  
-_Esempio:_  
+Use the well-established abbreviations for catalogs of works if they exist (BWV, KV, Hob., etc.). You may also use the abbreviation used within the catalog as long as it does not lead to confusion.&nbsp;   
+_Example:_
 
 > Horst Augsbach, Quantz-Werkverzeichnis (Stuttgart: Carus, 1997).  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → QV  
@@ -115,17 +112,17 @@ _Esempio:_
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → SSWV  
 > Armin Brinzing,&nbsp; Systematisches Verzeichnis der Werke von Johann Melchior Molters (MWV) (Wiesbaden: Harrassowitz Verlag, 2010).  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → BrinzingMWV  
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; _Nota: MWV è già in uso per il Mendelssohn Werkverzeichnis._
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; _Note: MWV was already in use for the Mendelssohn Werkverzeichnis._
 
 &nbsp;
 
-  
 
-**Casi speciali**
 
-Pubblicazioni che contengono il termine _catalogo tematico_ nel titolo spesso sono cataloghi di opere, ma a volte riguardano anche altri argomenti o non sono esaustive. Controlla ogni volta. Se si tratta del primo caso, assegna un'abbreviazione di catalogo di opere. Nel secondo caso, assegna un'abbreviazione come per la normale bibliografia. Insomma, qualsiasi cosa che non sia un catalogo di opere riceve un'abbreviazione come la bibliografia di riferimento.&nbsp;
+**Special cases**
 
-_Esempi:_
+Publications that contain the term _thematic catalog_ in their titles are often catalogs of works but may occasionally touch on other topics or not be extensive in their scope. Always double-check. If it’s the former, give it a short title as for a catalog of works. If it’s the latter, give it a short title like you do for normal literature. In short, anything that isn’t a catalog of works is assigned a literature short title.
+
+_Examples:_
 
 > Walter Pass, _Thematischer Katalog sämtlicher Werke Jacob Regnarts (ca. 1540-1599)_ (Vienna: Böhlau, 1969).  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → PasJ  
@@ -138,4 +135,6 @@ _Esempi:_
 > Róbert Árpád Murányi, “Thematischer Katalog der Werke G. J. Werners in Budapest,” _Acta musicologica_ 38/1-2 (1997): 151-228.  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → MurányiW 1997&nbsp;
 
-Non assegnare abbreviazioni a libri, annuali, atti di convegno ecc. che consistono in una collezione di saggi. I saggi in questi libri sono inseriti individualmente come bibliografia di riferimento, non il libro intero in sé. Il saggio è inserito come una scheda di bibliografia con il suo proprio titolo abbreviato.&nbsp;
+&nbsp;
+
+Do not assign a short title to books, yearbooks, conference reports, etc. that consist of a collection of essays. Any essays in such books are entered individually as literature references, not the entire book itself. The essay is entered as a literature record with its own short title.

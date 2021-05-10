@@ -1,3 +1,2 @@
-#### Data
-
-Numero di registro RDA:&nbsp;[rdaw:P10086](http://www.rdaregistry.info/Elements/w/#P10086)
+Date&nbsp;  
+rda registry [rdaw:P10086](http://www.rdaregistry.info/Elements/w/#P10086)

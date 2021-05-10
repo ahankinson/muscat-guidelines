@@ -1,125 +1,112 @@
-| 
+|
 
-**Para o período**
-
- | 
-
-**Insira este intervalo de datas**
+**For the period**
 
  |
-| 
 
-Começo do século dezoito
+**Enter this range of dates**
 
- | 
+ | |
+
+beginning of the 18th century
+
+ |
 
 1700-1710
 
+ | |
+
+middle of the 18th century
+
  |
-| 
-
-Meio do século dezoito
-
- | 
 
 1740-1760
 
+ | |
+
+end of the 18th century
+
  |
-| 
-
-Fim do século dezoito
-
- | 
 
 1790-1799
 
+ | |
+
+18th century, 1st third
+
  |
-| 
-
-Século dezoito, primeiro terço
-
- | 
 
 1700-1732
 
+ | |
+
+18th century, 2nd third
+
  |
-| 
-
-Século dezoito, segundo terço
-
- | 
 
 1733-1765
 
+ | |
+
+18th century, 3rd third
+
  |
-| 
-
-Século dezoito, terceiro terço
-
- | 
 
 1766-1799
 
+ | |
+
+18th century, 1st quarter
+
  |
-| 
-
-Século dezoito, primeiro quarto
-
- | 
 
 1700-1724
 
+ | |
+
+18th century, 2nd quarter
+
  |
-| 
-
-Século dezoito, segundo quarto
-
- | 
 
 1725-1749
 
+ | |
+
+18th century, 3rd quarter
+
  |
-| 
-
-Século dezoito, terceiro quarto
-
- | 
 
 1750-1774
 
+ | |
+
+18th century, 4th quarter
+
  |
-| 
-
-Século dezoito, quarto quarto
-
- | 
 
 1775-1799
 
+ | |
+
+18th century, 1st half
+
  |
-| 
-
-Século dezoito, primeira metade
-
- | 
 
 1700-1749
 
+ | |
+
+18th century, 2nd half
+
  |
-| 
-
-Século dezoito, segunda metade
-
- | 
 
 1750-1799
 
+ | |
+
+18th century
+
  |
-| 
-
-Século dezoito
-
- | 
 
 1700-1799
 

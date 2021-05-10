@@ -1,5 +1,4 @@
-#### Parola chiave**&nbsp;(380 $a)**
+**Subject heading (380 $a)**  
+RDA registry **&nbsp;** [**rdaw:P10027**](http://www.rdaregistry.info/Elements/w/#P10027)
 
-Numero di registro RDA: **&nbsp;** [**rdaw:P10027**](http://www.rdaregistry.info/Elements/w/#P10027)
-
-Correlazione con un'altra opera.&nbsp;
+Relates to another work

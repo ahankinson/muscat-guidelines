@@ -1,7 +1,12 @@
-Una terminologia inglese o delle abbreviazioni standardizzate in inglese sono richieste in alcuni campi, mentre in altri sono accettabili altre lingue.
+**Use of English vs. other languages**  
+English terminology or fixed English abbreviations are required in some fields while in other fields, other languages are acceptable.
 
-Quando è richiesto l'inglese, ciò è specificato nelle regole di catalogazione per il campo in oggetto.&nbsp;
+When English is required, it is indicated in the guidelines for the applicable field.
 
-Quando non è richiesto l'inglese, è possibile utilizzare quella che nelle regole di catalogazione viene definita come lingua di catalogazione. Il RISM consente l’uso delle seguenti lingue di catalogazione: inglese, francese, tedesco, italiano e spagnolo. In alternativa, sono ammesse altre lingue, purché sia fornito un riassunto in una delle cinque lingue di catalogazione. Le linee guida indicano sempre quando è possibile utilizzare la lingua di catalogazione.&nbsp;
+**Cataloging language**  
+When English is not required, you may use what the guidelines refer to as your **cataloging language**. RISM allows the following cataloging languages: English, French, German, Italian, Portuguese, and Spanish. Alternately, other languages are allowed as long as a summary is provided in one of the six cataloging languages. The guidelines always state when the cataloging language may be used.
 
-Nelle regole di catalogazione che seguono, per "lingua di catalogazione" si intende la pratica di utilizzare una di queste cinque lingue o una lingua diversa più una traduzione in una delle cinque suddette.
+In the guidelines that follow, "cataloging language" refers to the practice of using either one of these six languages or a different language plus a translation into one of the six.
+
+**Transliterations**  
+National groups are responsible for determining what transliteration tables should be used when transliterating their language.

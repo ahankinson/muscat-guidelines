@@ -1,5 +1,4 @@
-#### **Incipit (031)**
+**Incipit (031)**  
+RDA registry [rdae:P20062](http://www.rdaregistry.info/Elements/e/#P20062)
 
-Numero di registro RDA:&nbsp;[rdae:P20062](http://www.rdaregistry.info/Elements/e/#P20062)
-
-Inserisci l'incipit musicale e/o testuale dell'opera.
+Enter the music and/or text incipit(s) for the work.

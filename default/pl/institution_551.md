@@ -1,6 +1,6 @@
-#### **Miejsca (MARC 551)**
+#### **Places (MARC 551)**
 
-Podać nazwy geograficzne. Pole połączono linkiem z indeksem **Miejsca.**  
-  
-_Przykład_:  
+Enter geographical names. This field is linked to the **Places** index. &nbsp;
+
+_Example_:  
 Aigen-Schlägl&nbsp;_for the RISM library siglum&nbsp;record A-SCH_

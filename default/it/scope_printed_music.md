@@ -1,9 +1,7 @@
-**Copertura delle edizioni musicali a stampa in&nbsp;RISM**
+**Scope of printed music in RISM**
 
-RISM ambisce a documentare edizioni musicali a stampa dai primordi&nbsp;della stampa&nbsp;musicale fino al 1900 circa.&nbsp;
+RISM seeks to document printed music from the beginnings of music printing through around 1900.
 
-Nel corso del XX secolo e fino ad oggi si è assistito a un forte incremento della pubblicazione e distribuzione commerciale della musica. La quantità di musica considerata "rara" o non documentata altrove è molto minore rispetto ai secoli precedenti. La musica pubblicata da editori moderni, stampata in ampie tirature, facilmente disponibile, e destinata dai gestori di biblioteche a un uso pratico è documentata più opportunamente&nbsp;in banche-dati collettive come&nbsp;[WorldCat](http://www.worldcat.org/). Allo stesso modo,&nbsp;"[sheet music](https://www.loc.gov/collections/historic-sheet-music/about-this-collection/)" (musica d'intrattenimento pubblicata in brossura e spesso con copertine a colori brillanti)&nbsp;è documentata più opportunamente in banche-dati specializzate.
+In the course of the 20th century and up to today, we see a sharp increase in commercial music publishing and distribution. The amount of music considered "rare" or undocumented elsewhereis much less when compared to previous centuries. Music published by modern publishers, printed in large quantities, widely available, and meant for active use by library patrons would be better documented in cooperative databases such as [WorldCat](http://www.worldcat.org/).
 
-Un'eccezione a questa regola riguarda edizioni moderne incluse nel contesto della catalogazione di un'intera collezione di valore storico, ad esempio&nbsp;la biblioteca privata di un individuo. In questo caso, RISM può accettare schede di edizioni musicali moderne allo scopo di documentare la collezione nella sua interezza.
-
-RISM può considerare caso per caso l'opportunità di documentare musica pubblicata nel XX secolo da editori scomparsi o editori minori e regionali d'importanza storica.
+RISM will consider, on a case-by-case basis, whether to document music published in the 20th century by defunct publishers or by smaller, regional publishers of historical significance; as well as modern editions included in the course of cataloging a collection with historical value, such as the private library of an individual.

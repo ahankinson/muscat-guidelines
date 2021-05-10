@@ -1,548 +1,490 @@
-#### Glosariusz  
+#### Standard terms
 
-| 
+|
 
-**Angielski Polski**
-
- | 
-
-**Niemiecki**
+**English**
 
  |
-| 
 
-accidental - akcydensowy
+**German**
 
- | 
+ | |
+
+accidental
+
+ |
 
 Akkzidenz, Vorzeichen
 
+ | |
+
+added
+
  |
-| 
-
-added - dodany
-
- | 
 
 hinzugefügt
 
+ | |
+
+advertisements
+
  |
-| 
-
-advertisements - reklamy
-
- | 
 
 Anzeigen
 
+ | |
+
+alto clef
+
  |
-| 
-
-alto clef - klucz altowy
-
- | 
 
 Altschlüssel
 
+ | |
+
+at bottom left / right / center of title page
+
  |
-| 
-
-at bottom left / right / center of title page - na dole po lewej / prawej / na środku strony tytułowej
-
- | 
 
 links/rechts/in der Mitte unten auf dem Titelblatt
 
+ | |
+
+at bottom of each part
+
  |
-| 
-
-at bottom of each part - na dole każdej części
-
- | 
 
 jeweils Fußtitel
 
+ | |
+
+at bottom of title page
+
  |
-| 
-
-at bottom of title page - na dole strony tytułowej
-
- | 
 
 am Fuß des Titelblatts
 
+ | |
+
+at top / head of title page
+
  |
-| 
-
-at top / head of title page - na górze/na dole strony tytułowej
-
- | 
 
 oben auf dem Titelblatt
 
+ | |
+
+augment
+
  |
-| 
-
-augment - powiększać
-
- | 
 
 vergrößern
 
+ | |
+
+augmented
+
  |
-| 
-
-augmented - powiększony
-
- | 
 
 vergrößert
 
+ | |
+
+bar / measure
+
  |
-| 
-
-bar / measure - takt/miara
-
- | 
 
 Takt
 
+ | |
+
+bar line
+
  |
-| 
-
-bar line - kreska taktowa
-
- | 
 
 Taktstrich
 
+ | |
+
+bass clef
+
  |
-| 
-
-bass clef - klucz basowy
-
- | 
 
 Baßschlüssel
 
+ | |
+
+beaming
+
  |
-| 
-
-beaming - belkowanie
-
- | 
 
 Balkung
 
+ | |
+
+beat
+
  |
-| 
-
-beat - rytm, tempo, jednostka taktowa, uderzenie
-
- | 
 
 Schlag
 
+ | |
+
+binding title / cover title
+
  |
-| 
-
-binding title / cover title - tytuł na oprawie, tytuł na okładce
-
- | 
 
 Einbandtitel
 
+ | |
+
+blacken
+
  |
-| 
-
-blacken - pociemnić, poczernić
-
- | 
 
 schwärzen
 
+ | |
+
+by later hand
+
  |
-| 
-
-by later hand - dodany później, inną ręką
-
- | 
 
 von späterer Hand
 
+ | |
+
+by later hand, pencil / ink
+
  |
-| 
-
-by later hand, pencil / ink - dodany później, inną ręką, ołówkiem/atramentem
-
- | 
 
 späterer Bleivermerk / Vermerk mit Tinte
 
+ | |
+
+by other hand
+
  |
-| 
-
-by other hand - dodany inną ręką
-
- | 
 
 von anderer Hand
 
+ | |
+
+by Santini
+
  |
-| 
-
-by Santini - ręką Santiniego
-
- | 
 
 von Santinis Hand
 
+ | |
+
+C
+
  |
-| 
-
-C - C
-
- | 
 
 c
 
+ | |
+
+C double flat
+
  |
-| 
-
-C double flat - ceses
-
- | 
 
 ceses
 
+ | |
+
+C double sharp
+
  |
-| 
-
-C double sharp - cisis
-
- | 
 
 cisis
 
+ | |
+
+C flat
+
  |
-| 
-
-C flat - ces
-
- | 
 
 ces
 
+ | |
+
+C sharp
+
  |
-| 
-
-C sharp - cis
-
- | 
 
 cis
 
+ | |
+
+C’ [C prime]
+
  |
-| 
-
-C’ [C prime] - C razkreślne
-
- | 
 
 eingestrichenes c
 
+ | |
+
+canceled / cancelled
+
  |
-| 
-
-canceled / cancelled - odwołany
-
- | 
 
 getilgt
 
+ | |
+
+caption
+
+-image caption
+
  |
-| 
-
-caption - podpis
-
--image caption - podpis pod zdjęciem
-
- | 
 
 Unterschrift
 
 -Bildunterschrift
 
+ | |
+
+caption title
+
  |
-| 
-
-caption title - tytuł nagłówkowy
-
- | 
 
 Kopftitel
 
+ | |
+
+caption title on several parts
+
  |
-| 
-
-caption title on several parts - tytuł nagłówkowy na kilku częściach
-
- | 
 
 Kopftitel einiger Stimmen
 
+ | |
+
+caption title, instrumental parts
+
  |
-| 
-
-caption title, instrumental parts - tytuł nagłówkowy, części instrumentalne
-
- | 
 
 Kopftitel der Instrumentalstimmen
 
+ | |
+
+changed to
+
  |
-| 
-
-changed to - zmieniony na
-
- | 
 
 geändert in
 
+ | |
+
+clef
+
  |
-| 
-
-clef - klucz
-
- | 
 
 Notenschlüssel
 
+ | |
+
+corrected
+
  |
-| 
-
-corrected - poprawiony
-
- | 
 
 korrigiert, verbessert
 
+ | |
+
+cover title
+
  |
-| 
-
-cover title - tytuł na okładce
-
- | 
 
 Umschlagtitel / Umschlagdeckeltitel
 
+ | |
+
+cover title by Poelchau
+
  |
-| 
-
-cover title by Poelchaus - tytuł na okładce ręką Poelchausa
-
- | 
 
 Umschlagtitel von Poelchaus Hand
 
+ | |
+
+cover title, parts
+
  |
-| 
-
-cover title, parts - tytuł na okładce, części
-
- | 
 
 Umschlagtitel der Stimmen
 
+ | |
+
+cover title, score 1
+
  |
-| 
-
-cover title, score 1 - tytuł na okładce, partytura 1.
-
- | 
 
 Umschlagtitel der 1. Partitur
 
+ | |
+
+cover title, vl 1
+
  |
-| 
-
-cover title, vl 1 - tytuł na okładce, vl 1
-
- | 
 
 Umschlagtitel der vl 1-Stimme
 
- |
-| 
+ | |
 
 cropped
 
--upper margin heavily cropped - obcięty, górny margines znacznie obcięty
+-upper margin heavily cropped
 
- | 
+ |
 
 beschnitten
 
 -oberer Rand stark beschnitten
 
+ | |
+
+crossed out / struck through
+
  |
-| 
-
-crossed out / struck through - wykreślony
-
- | 
 
 durchstrichen
 
+ | |
+
+cut
+
  |
-| 
-
-cut - obcięty
-
- | 
 
 beschnitten
 
+ | |
+
+device
+
+-publisher's device
+
  |
-| 
-
-device-&nbsp;sygnet
-
--publisher's device - sygnet wydawniczy
-
- | 
 
 Signet
 
 -Verlagssignet
 
+ | |
+
+diminish
+
  |
-| 
-
-diminish - zmniejszyć
-
- | 
 
 verkleinern
 
+ | |
+
+diminished
+
  |
-| 
-
-diminished - zmniejszony
-
- | 
 
 verkleinert
 
+ | |
+
+dotted
+
  |
-| 
-
-dotted - kropkowany
-
- | 
 
 punktiert
 
+ | |
+
+double
+
  |
-| 
-
-double - podwoić
-
- | 
 
 verdoppeln
 
+ | |
+
+double dotted
+
  |
-| 
-
-double dotted - podwójnie kropkowany
-
- | 
 
 doppelt punktiert
 
+ | |
+
+(double) dot
+
  |
-| 
-
-(double) dot - podwójna kropka
-
- | 
 
 (doppelte) Punktierung
 
+ | |
+
+double flat
+
  |
-| 
-
-double flat - podwójny bemol
-
- | 
 
 Doppel-B
 
+ | |
+
+double sharp
+
  |
-| 
-
-double sharp - podwójny krzyżyk
-
- | 
 
 Doppelkreuz
 
+ | |
+
+doubled
+
  |
-| 
-
-doubled - podwojony
-
- | 
 
 verdoppelt
 
+ | |
+
+dust cover title
+
  |
-| 
-
-dust cover title - tytuł obwoluty
-
- | 
 
 Titel auf Schutzumschlag
 
+ | |
+
+engraved
+
  |
-| 
-
-engraved - wygrawerowany, wyryty
-
- | 
 
 gestochen
 
+ | |
+
+erased
+
  |
-| 
-
-erased - wytarty (gumką), wygumkowany
-
- | 
 
 ausradiert
 
+ | |
+
+flatten
+
  |
-| 
-
-flatten - spłaszczyć
-
- | 
 
 erniedrigen
 
+ | |
+
+frame
+
+-decorative frame
+
+-floral decorative frame
+
  |
-| 
-
-frame - ramka
-
--decorative frame - ramka dekoracyjna
-
--floral decorative frame - ramka we wzory kwiatowe
-
- | 
 
 Rahmen
 
@@ -550,606 +492,549 @@ Rahmen
 
 -floraler Zierrahmen
 
+ | |
+
+G clef
+
  |
-| 
-
-G clef - klucz G
-
- | 
 
 G-Schlüssel
 
+ | |
+
+grace note
+
  |
-| 
-
-grace note - ozdobnik
-
- | 
 
 Vorschlag
 
+ | |
+
+great octave
+
  |
-| 
-
-great octave - oktawa wielka
-
- | 
 
 große Oktave
 
+ | |
+
+guard sheet
+
  |
-| 
-
-guard sheet - arkusz&nbsp;
-
- | 
 
 Deckblatt
 
+ | |
+
+halve
+
  |
-| 
-
-halve - przepołowić
-
- | 
 
 halbieren
 
+ | |
+
+halved
+
  |
-| 
-
-halved - przepołowiony
-
- | 
 
 halbiert
 
+ | |
+
+heading
+
  |
-| 
-
-heading - nagłówek
-
- | 
 
 Überschrift
 
+ | |
+
+illegible
+
  |
-| 
-
-illegible - nieczytelny
-
- | 
 
 unlesbar
 
+ | |
+
+incipit
+
  |
-| 
-
-incipit - incipit
-
- | 
 
 Incipit
 
+ | |
+
+indication of parts
+
  |
-| 
-
-indication of parts - wykaz części
-
- | 
 
 Stimmbezeichnung/en
 
+ | |
+
+key signature
+
  |
-| 
-
-key signature - znaki przykluczowe
-
- | 
 
 Tonartvorzeichnung
 
+ | |
+
+label on cover
+
  |
-| 
-
-label on cover - etykieta na okładce
-
- | 
 
 Umschlagtitel auf Etikett / Umschlagtitel aufgeklebt
 
+ | |
+
+left before accolade
+
  |
-| 
-
-left before accolade - na lewo od wyróżnienia
-
- | 
 
 links von der Akkolade
 
+ | |
+
+metre / meter
+
  |
-| 
-
-metre / meter - metrum
-
- | 
 
 Taktart
 
+ | |
+
+missing
+
+-text missing
+
  |
-| 
-
-missing - brak
-
--text missing - brak tekstu
-
- | 
 
 -Textverlust
 
+ | |
+
+monogram
+
  |
-| 
-
-monogram - monogram
-
- | 
 
 Monogramm
 
+ | |
+
+natural sign
+
  |
-| 
-
-natural sign - znak kasownika
-
- | 
 
 Auflösungszeichen
 
+ | |
+
+note head
+
  |
-| 
-
-note head - główka nuty
-
- | 
 
 Notenkopf
 
+ | |
+
+note stem
+
  |
-| 
-
-note stem - ogonek nuty
-
- | 
 
 Notenhals
 
+ | |
+
+on previous page
+
  |
-| 
-
-on previous page - na poprzedniej stronie
-
- | 
 
 auf der vorhergehenden Seite
 
+ | |
+
+pasteover S
+
  |
-| 
-
-pasteover S - przyklejony tytuł głosu&nbsp;S
-
- | 
 
 Aufgeklebter Titel einer S-Stimme
 
+ | |
+
+printed
+
  |
-| 
-
-printed - drukowany
-
- | 
 
 gedruckt
 
+ | |
+
+printed title on ...
+
+raised
+
+&nbsp;&nbsp;&nbsp;&nbsp; A with raised e [typeography]
+
  |
-| 
-
-printed title on .../Nadruk tytułu na...
-
- | 
 
 Titelaufdruck auf ...
 
+überhöht
+
+&nbsp;&nbsp;&nbsp;&nbsp; A mit e überhöht
+
+ | |
+
+red chalk
+
  |
-| 
-
-red chalk - sangwina
-
- | 
 
 Rötel
 
+ | |
+
+role book
+
  |
-| 
-
-role book - książeczka z rolami
-
- | 
 
 Rollenbuch
 
+ | |
+
+sharp / flat sign
+
  |
-| 
-
-sharp / flat sign - znak krzyżyka/bemola
-
- | 
 
 Erhöhungs- / Erniedrigungszeichen
 
+ | |
+
+sharpen
+
  |
-| 
-
-sharpen - podwyższyć
-
- | 
 
 erhöhen
 
- |
-| 
-
-sic - sic
-
- | 
+ | |
 
 sic
 
  |
-| 
 
-small octave - oktawa mała
+sic
 
- | 
+ | |
+
+small octave
+
+ |
 
 kleine Oktave
 
+ | |
+
+soprano clef
+
  |
-| 
-
-soprano clef - klucz sopranowy
-
- | 
 
 Sopranschlüssel
 
+ | |
+
+space
+
  |
-| 
-
-space - spacja
-
- | 
 
 Spatium, Zwischenraum
 
+ | |
+
+spine title
+
  |
-| 
-
-spine title - tytuł grzbietowy
-
- | 
 
 Rückentitel
 
+ | |
+
+spine title, printed
+
  |
-| 
-
-spine title, printed - tytuł grzbietowy drukowany
-
- | 
 
 Rückentitel gedruckt
 
+ | |
+
+tenor clef
+
  |
-| 
-
-tenor clef - klucz tenorowy
-
- | 
 
 Tenorschlüssel
 
+ | |
+
+tie
+
  |
-| 
-
-tie - ligatura, łuk
-
- | 
 
 Haltebogen
 
+ | |
+
+time signature
+
  |
-| 
-
-time signature - znaki przykluczowe
-
- | 
 
 Taktvorzeichen
 
+ | |
+
+title in margin
+
  |
-| 
-
-title in margin - tytuł na marginesie
-
- | 
 
 Titel am Blattrand
 
+ | |
+
+title on flyleaf
+
  |
-| 
-
-title on flyleaf - tytuł na wyklejce
-
- | 
 
 Titel auf Vorsatzblatt
 
+ | |
+
+title page
+
  |
-| 
-
-title page - strona tytułowa
-
- | 
 
 Titelseite
 
+ | |
+
+transposed up / down a major third
+
  |
-| 
-
-transposed up / down a major third- przetransponowany w górę/w dół o wielką tercję
-
- | 
 
 um eine große Terz aufwärts / abwärts transponiert
 
+ | |
+
+treble clef
+
  |
-| 
-
-treble clef - klucz wiolinowy
-
- | 
 
 Violinschlüssel
 
+ | |
+
+upbeat
+
  |
-| 
-
-upbeat - przedtakt
-
- | 
 
 Auftakt
 
+ | |
+
+vignette
+
  |
-| 
-
-vignette -&nbsp;winieta
-
- | 
 
 Vignette
 
- |
-| 
-
- | 
+ | |
 
  |
 
-| 
+ |
 
-**Wartości nut: amerykańskie/brytyjskie/polskie**
+|
 
- | 
-
-**niemieckie**
+**Note values: American / British**
 
  |
-| 
 
-whole note / semibreve/cała nuta
+**Notenwerte**
 
- | 
+ | |
+
+whole note / semibreve
+
+ |
 
 ganze Note
 
+ | |
+
+half note / minim
+
  |
-| 
-
-half note / minim/półnuta
-
- | 
 
 halbe Note
 
+ | |
+
+quarter note / crotchet
+
  |
-| 
-
-quarter note / crotchet/ćwierćnuta
-
- | 
 
 Viertelnote
 
+ | |
+
+eighth note / quaver
+
  |
-| 
-
-eighth note /quaver/ ósemka
-
- | 
 
 Achtelnote
 
+ | |
+
+sixteenth note / semiquaver
+
  |
-| 
-
-sixteenth note / semiquaver/szesnastka
-
- | 
 
 Sechzehntelnote
 
+ | |
+
+thirty-second note / demisemiquaver
+
  |
-| 
-
-thirty-second note /demisemiquaver/ trzydziestkadwójka
-
- | 
 
 Zweiunddreißigstelnote
 
+ | |
+
+sixty-fourth note / hemidemisemiquaver
+
  |
-| 
-
-sixty-fourth note / hemidemisemiquaver/sześćdziesiątkaczwórka
-
- | 
 
 Vierundsechzigstelnote
 
+ | |
+
+duplet
+
  |
-| 
-
-duplet - duola
-
- | 
 
 Duole
 
+ | |
+
+triplet
+
  |
-| 
-
-triplet - triola
-
- | 
 
 Triole
 
+ | |
+
+quadruplet
+
  |
-| 
-
-quadruplet - kwadrola
-
- | 
 
 Quartole
 
+ | |
+
+quintuplet
+
  |
-| 
-
-quintuplet - kwintola
-
- | 
 
 Quintole
 
+ | |
+
+sextuplet
+
  |
-| 
-
-sextuplet - sekstola
-
- | 
 
 Sextole
 
+ | |
+
+septuplet
+
  |
-| 
-
-septuplet - septola
-
- | 
 
 Septole
 
+ | |
+
+octuplet
+
  |
-| 
-
-octuplet - oktola
-
- | 
 
 Oktole
 
  |
 
-| 
+|
 
-**Wartości pauz: amerykańskie/brytyjskie**
-
- | 
-
-**niemieckie**
+**Rest values: American / British**
 
  |
-| 
 
-whole rest /semibreve rest/pauza całonutowa
+**Pausenwerte**
 
- | 
+ | |
+
+whole rest /semibreve rest
+
+ |
 
 ganze Pause
 
+ | |
+
+half rest / minim rest
+
  |
-| 
-
-half rest / minim rest/pauza półnutowa
-
- | 
 
 halbe Pause
 
+ | |
+
+quarter rest / crotchet rest
+
  |
-| 
-
-quarter rest / crotchet rest/pauza ćwierćnutowa
-
- | 
 
 Viertelpause
 
+ | |
+
+eighth rest / quaver rest
+
  |
-| 
-
-eighth rest / quaver rest/pauza ósemkowa
-
- | 
 
 Achtelpause
 
+ | |
+
+sixteenth rest / semiquaver rest
+
  |
-| 
-
-sixteenth rest / semiquaver rest/pauza szesnastkowa
-
- | 
 
 Sechzehntelpause
 
+ | |
+
+thirty-second rest / demisemiquaver rest
+
  |
-| 
-
-thirty-second rest / demisemiquaver rest/pauza trzydziestodwójkowa
-
- | 
 
 Zweiunddreißigstelpause
 
+ | |
+
+sixty-fourth rest / hemidemisemiquaver rest
+
  |
-| 
-
-sixty-fourth rest / hemidemisemiquaver rest/pauza sześćdziesięcioczwórkowa
-
- | 
 
 Vierundsechzigstelpause
 
