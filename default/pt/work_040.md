@@ -1,17 +1,17 @@
-### **Fonte catalogadora&nbsp; (040)**
+### **Cataloging source (040)**
 
-Este campo fornece informação sobre a agência que criou o registro.
-
-&nbsp;
-
-#### **Agência catalogadora original (040 $a)  
-Agência transcritora&nbsp; (040 $c)  
-Agência modificadora (040 $d)**  
-
-Não modifique ou edite estes campos.
+This field gives information about the agency that created the record.
 
 &nbsp;
 
-#### **Idioma de catalogação (040 $b)**
+#### **Original cataloging agency (040 $a)
+Transcribing agency (040 $c)  
+Modifying agency (040 $d)**
 
-Indique o seu idioma de catalogação. Selecione alemão, espanhol, francês, inglês, italiano ou português.
+Do not change or edit these fields.
+
+&nbsp;
+
+#### **Language of cataloging (040 $b)**
+
+Indicate your cataloging language. Select from English, French, German, Italian, or Spanish.
