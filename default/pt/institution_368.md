@@ -1,15 +1,12 @@
-#### **Tipo de instituição (MARC 368 $a; ISDIAH 5.1.5)**
+**Type of institution (MARC 368 $a; ISDIAH 5.1.5)**
 
-Este campo identifica o tipo da instituição que possui o material catalogado.
+This field&nbsp;identifies the type of institution with archival holdings.
 
-Escolha um dos seguintes tipos:
+Select from the following types:
 
-- Arquivo
-- Biblioteca
-- Centro de documentação
-- Editora
-- Impressora
-- Instituto de pesquisa
-- Museu 
-- Nome corporativo
-- Outro
+- Archive
+- Library
+- Research institute
+- Corporate name
+- Publisher
+- Other
