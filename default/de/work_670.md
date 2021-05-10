@@ -1,15 +1,15 @@
-**Literaturnachweis (670)**  
+### **Source data found (670)**
 
-Dieses Feld verzeichnet die Sekundärliteratur, die bei der Beschreibung des Werks berücksichtigt wurde. Es kann auch als allgemeine Bibliographie für das Werk dienen.&nbsp;   
-
-  
-
-#### **Literaturnachweis (670 $a)**
-
-Geben Sie den Kurztitel ein. Dieses Feld ist mit der Normdatendank **Sekundärliteratur** verknüpft. Wenn Sie bereits einen Verweis auf einen Werkkatalog in das Haupteingabefeld (100) oder das Variantenfeld (400) eingegeben haben, geben Sie ihn hier erneut ein.
+This field lists the secondary literature consulted while creating the description of the work. It can also serve as a general bibliography for the work.
 
 &nbsp;
 
-#### **Fundstelle (670 $b)**
+#### **Source data found (670 $a)**
 
-Geben Sie eine Seitenzahl an.
+Enter the short title. This field is linked to the **Secondary literature** database. If you already entered a reference to a catalog of works in either the main entry field (100) or the variants field (400), be sure to enter it here again.
+
+&nbsp;
+
+#### **Information found (670 $b)**
+
+Enter the page number.
