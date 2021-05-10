@@ -1,125 +1,112 @@
-| 
+|
 
-**Per il periodo...**
-
- | 
-
-**...inserisci questo ambito di datazione**
+**For the period**
 
  |
-| 
 
-inizio del XVIII sec.
+**Enter this range of dates**
 
- | 
+ | |
+
+beginning of the 18th century
+
+ |
 
 1700-1710
 
+ | |
+
+middle of the 18th century
+
  |
-| 
-
-metà del XVIII sec.
-
- | 
 
 1740-1760
 
+ | |
+
+end of the 18th century
+
  |
-| 
-
-fine del XVIII sec.
-
- | 
 
 1790-1799
 
+ | |
+
+18th century, 1st third
+
  |
-| 
-
-primo terzo del XVIII sec.
-
- | 
 
 1700-1732
 
+ | |
+
+18th century, 2nd third
+
  |
-| 
-
-secondo terzo del XVIII sec.
-
- | 
 
 1733-1765
 
+ | |
+
+18th century, 3rd third
+
  |
-| 
-
-ultimo terzo del XVIII sec.
-
- | 
 
 1766-1799
 
+ | |
+
+18th century, 1st quarter
+
  |
-| 
-
-primo quarto del XVIII sec.
-
- | 
 
 1700-1724
 
+ | |
+
+18th century, 2nd quarter
+
  |
-| 
-
-secondo quarto del XVIII sec.
-
- | 
 
 1725-1749
 
+ | |
+
+18th century, 3rd quarter
+
  |
-| 
-
-terzo quarto del XVIII sec.
-
- | 
 
 1750-1774
 
+ | |
+
+18th century, 4th quarter
+
  |
-| 
-
-ultimo quarto del XVIII sec.
-
- | 
 
 1775-1799
 
+ | |
+
+18th century, 1st half
+
  |
-| 
-
-prima metà del XVIII sec.
-
- | 
 
 1700-1749
 
+ | |
+
+18th century, 2nd half
+
  |
-| 
-
-seconda metà del XVIII sec.
-
- | 
 
 1750-1799
 
+ | |
+
+18th century
+
  |
-| 
-
-XVIII secolo
-
- | 
 
 1700-1799
 
