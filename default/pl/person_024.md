@@ -1,19 +1,19 @@
-#### Other standard identifier (024)
+#### Inny standardowy identyfikator (024)
 
-This field gives an alphanumeric code that refers to a name created by another agency.
+W polu podaje się kod alfanumeryczny, które odnosi się do nazwy utworzonej przez inną agencję.
 
-#### Standard number or code (024 $a)
+#### Standardowy numer lub kod (024 $a)
 
-Enter the alphanumeric code used to identify names. The code is taken from the authority data of the creating agency.
+Podać kod alfanumeryczny stosowany do identyfikacji nazw. Należy go pobrać z plików autorytatywnych instytucji tworzącej nazwę.
 
-_Examples:_  
+_Przykłady:_  
 100221216  
 n83176163
 
 ####
-Source of number or code (024 $2)
+Źródło numeru lub kodu (024 $2)
 
-Select from the following:
+Należy wybrać spośród następujących instytucji:
 
 - **BNE** : Biblioteca Nacional de España
 - **BNF** : Bibliothèque nationale de France
@@ -27,7 +27,7 @@ Select from the following:
 - **VIAF** : Virtual International Authority File
 - **WKP** : Wikidata (Wikipedia)
 
-_Examples_:  
+_Przykłady_:  
 11862119X  
 DNB
 
