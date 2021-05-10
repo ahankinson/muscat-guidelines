@@ -1,155 +1,149 @@
-W przypadku, gdy w źródle znajduje się **partia** basso continuo, należy wypełnić następujące pola i należy to uczynić w sposób następujący:
+The following fields must be filled out as follows if you have a figured bass **part** :
 
 &nbsp;
 
-| 
+|
 
 **Instrument**
 
- | 
+ |
 
-**Podsumowanie obsady (130/240 $m)**
-
- | 
-
-**Głosy (590)**
-
- | 
-
-**Szczegółowy opis obsady (594)**
+**Scoring summary (130/240 $m)**
 
  |
-| 
+
+**Parts held (590)**
+
+ |
+
+**Scoring (594)**
+
+ | |
 
 b
 
- | 
+ |
 
 b
 
- | 
+ |
 
 b.fig
 
- | 
+ |
 
 b
 
+ | |
+
+bc
+
  |
-| 
 
 bc
 
- | 
-
-bc
-
- | 
+ |
 
 bc.fig
 
- | 
+ |
 
 bc
 
+ | |
+
+org
+
  |
-| 
 
 org
 
- | 
-
-org
-
- | 
+ |
 
 org.fig
 
- | 
+ |
 
 org
 
- |
-| 
+ | |
 
-W przypadku innych instrumentów klawiszowych, należy stosować wzór jak dla **org**.
+For other keyboard instruments, follow the model as for **org**.
 
  |
 
 &nbsp;
 
-W przypadku basso continuo w partyturze, wpisu należy dokonać w sposób następujący:
+For a figured bass in a **score** , do the following:
 
-| 
+|
 
 **Instrument**
 
- | 
+ |
 
-**Podsumowanie obsady (130/240 $m)**
-
- | 
-
-**Szczegółowy opis obsady (594)**
-
- | 
-
-**Uwaga ogólna (500)**
+**Scoring summary (130/240 $m)**
 
  |
-| 
+
+**Scoring (594)**
+
+ |
+
+**General note (500)**
+
+ | |
 
 b
 
- | 
+ |
 
 b
 
- | 
+ |
 
 b
 
- | 
+ |
 
 b = b.fig
 
+ | |
+
+bc
+
  |
-| 
 
 bc
 
- | 
+ |
 
 bc
 
- | 
-
-bc
-
- | 
+ |
 
 bc = bc.fig
 
+ | |
+
+org
+
  |
-| 
 
 org
 
- | 
+ |
 
 org
 
- | 
-
-org
-
- | 
+ |
 
 org = org.fig
 
- |
-| 
+ | |
 
-W przypadku innych instrumentów klawiszowych, należy stosować wzór jak dla **org**.
+For other keyboard instruments, follow the model as for **org**.
 
  |
+
+&nbsp;
