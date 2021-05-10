@@ -1,53 +1,32 @@
-1t = 1.Ton (dorisch)   
+**Western church modes:**
 
-1tt = 1.Ton (dorisch),&nbsp;transponiert 
+1t = 1st tone (Dorian)  
+1tt = 1st tone (Dorian), transposed  
+2t = 2nd tone (Hypodorian)  
+2tt = 2nd tone (Hypodorian), transposed  
+3t = 3rd tone (Phrygian)  
+3tt = 3rd tone (Phrygian), transposed  
+4t = 4th tone (Hypophrygian)  
+4tt = 4th tone (Hypophrygian), transposed   
+5t = 5th tone (Lydian)   
+5tt = 5th tone (Lydian), transposed  
+6t = 6th tone (Hypolydian)   
+6tt = 6th tone (Hypolydian), transposed  
+7t = 7th tone (Mixolydian)   
+7tt = 7th tone (Mixolydian), transposed   
+8t = 8th tone (Hypomixolydian)  
+8tt = 8th tone (Hypomixolydian), transposed  
+9t = 9th tone (Aeolian)  
+9tt = 9th tone (Aeolian), transposed  
+10t = 10th tone (Hypoaeolian)  
+10tt = 10th tone (Hypoaeolian), transposed  
+11t = 11th tone (Ionian)  
+11tt = 11th tone (Ionian), transposed  
+12t = 12th tone (Hypoionian)  
+12tt = 12th tone (Hypoionian), transposed
 
-2t = 2.Ton (hypodorisch) 
-2tt = 2.Ton (hypodorisch),&nbsp;transponiert  
 
-3t = 3.Ton (phrygisch)
-
-3tt = 3.Ton (phrygisch),&nbsp;transponiert 
-
-4t = 4.Ton (hypophrygisch)   
-
-4tt = 4.Ton (hypophrygisch),&nbsp;transponiert 
-
-5t = 5.Ton (lydisch)   
-
-5tt = 5.Ton (lydisch),&nbsp;transponiert
-
-6t = 6.Ton (hypolydisch)
-
-6tt = 6.Ton (hypolydisch),&nbsp;transponiert 
-
-7t = 7.Ton (mixolydisch)
-
-7tt = 7.Ton (mixolydisch),&nbsp;transponiert 
-
-8t = 8.Ton (hypomixolydisch)
-
-8tt = 8.Ton (hypomixolydisch),&nbsp;transponiert 
-
-9t = 9.Ton (aeolisch)
-
-9tt = 9.Ton (aeolisch),&nbsp;transponiert 
-
-10t = 10.Ton (hypoaeolisch)
-
-10tt = 10.Ton (hypoaeolisch), transponiert 
-
-11t = 11.Ton (ionisch)
-
-11tt = 11.Ton (ionisch), transponiert 
-
-12t = 12.Ton (hypoionisch)
-
-12tt = 12.Ton (hypoionisch), transponiert 
-
-  
-
-**Byzantinische Modi:**  
+**Byzantine modes:**  
 Ēchos prōtos (First mode of Byzantine music)  
 Ēchos deuteros (Second mode of Byzantine music)  
 Ēchos tritos (Third mode of Byzantine music)  
