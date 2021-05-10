@@ -1,741 +1,646 @@
-[obsolete? see abbr\_general]
+## General abbreviations and terms
 
-## Abbreviazioni generali e termini specifici
-
-| 
+|
 
 appx
 
- | 
-
-appendice
-
  |
-| 
+
+appendix
+
+ | |
 
 Arr
 
- | 
+ |
 
-arrangiamento
+arrangement
+
+ | |
 
  |
-| 
 
- | 
-
- |
-| 
+ | |
 
 cfr.
 
- | 
-
-confronta
-
  |
-| 
+
+compare
+
+ | |
 
 clm.
 
- | 
-
-colonna
-
  |
-| 
+
+column
+
+ | |
 
 cm
 
- | 
-
-centimetro
-
  |
-| 
+
+centimeter
+
+ | |
 
 collab.
 
- | 
-
-collaboratore
-
  |
-| 
+
+collaborator
+
+ | |
 
 Collection
 
- | 
-
-raccolta manoscritta, raccolta a stampa
-
  |
-| 
+
+manuscript collection, printed collection
+
+ | |
 
 comp.
 
- | 
-
-data di composizione
-
  |
-| 
+
+date of composition
+
+ | |
 
 convolutum
 
- | 
+ |
 
-volume composito
+miscellany, bundle
+
+ | |
 
  |
-| 
 
- | 
-
- |
-| 
+ | |
 
 Excerpts
 
- | 
+ |
 
-estratto / estratti
+excerpt(s)
+
+ | |
 
  |
-| 
 
- | 
-
- |
-| 
+ | |
 
 deest
 
- | 
-
-non esiste
-
  |
-| 
+
+not existing
+
+ | |
 
 dir.
 
- | 
-
-direttore
-
  |
-| 
+
+conductor
+
+ | |
 
 diss.
 
- | 
+ |
 
-dissertazione dottorale
+dissertation
+
+ | |
 
  |
-| 
 
- | 
-
- |
-| 
+ | |
 
 Ed.
 
- | 
-
-editore
-
  |
-| 
+
+publisher
+
+ | |
 
 ed.
 
- | 
-
-curatore, a cura di
-
  |
-| 
+
+editor, edited by
+
+ | |
 
 edn.
 
- | 
-
-edizione
-
  |
-| 
+
+edition
+
+ | |
 
 enl.
 
- | 
-
-(edizione) accresciuta
-
  |
-| 
+
+enlarged (edition)
+
+ | |
 
 et al.
 
- | 
-
-e altri
-
  |
-| 
+
+and others
+
+ | |
 
 etc.
 
- | 
+ |
 
-eccetera
+et cetera
+
+ | |
 
  |
-| 
 
- | 
-
- |
-| 
+ | |
 
 f.
 
- | 
-
-carta / carte
-
  |
-| 
+
+folio(s)
+
+ | |
 
 facs.
 
- | 
+ |
 
 facsimile
 
- |
-| 
+ | |
 
 fasc.
 
- | 
-
-fascicolo
-
  |
-| 
+
+fascicle, gathering
+
+ | |
 
 fds.
 
- | 
-
-piego (di carta)
-
  |
-| 
+
+fold(s)
+
+ | |
 
 fragments
 
- | 
+ |
 
 fragment(s)
 
- |
-| 
-
- | 
+ | |
 
  |
-| 
+
+ | |
 
 ibd.
 
- | 
+ |
 
 ibidem
 
- |
-| 
-
-idem
-
- | 
+ | |
 
 idem
 
  |
-| 
+
+idem
+
+ | |
 
 i.e.
 
- | 
+ |
 
 id est
 
- |
-| 
+ | |
 
 Incip.
 
- | 
+ |
 
 incipit
 
- |
-| 
+ | |
 
 ?
 
- | 
+ |
 
 mistakes within incipit not corrected
 
- |
-| 
+ | |
 
 t
 
- | 
+ |
 
 incipit is transcribed
 
- |
-| 
+ | |
 
-+
-
- | 
++  |
 
 mistakes within incipit corrected
 
- |
-| 
+ | |
 
 incpl.
 
- | 
+ |
 
 incomplete
 
- |
-| 
+ | |
 
 Inserts
 
- | 
+ |
 
 insert(s)
 
- |
-| 
-
- | 
+ | |
 
  |
-| 
+
+ | |
 
 Jg.
 
- | 
+ |
 
 year
 
- |
-| 
+ | |
 
 jun.
 
- | 
+ |
 
 junior
 
- |
-| 
-
- | 
+ | |
 
  |
-| 
 
-libretto
-
- | 
+ | |
 
 libretto
 
  |
-| 
+
+libretto
+
+ | |
 
 lvs.
 
- | 
+ |
 
 leaves
 
- |
-| 
-
- | 
+ | |
 
  |
-| 
+
+ | |
 
 Ms.
 
- | 
+ |
 
 manuscript
 
- |
-| 
-
- | 
+ | |
 
  |
-| 
+
+ | |
 
 no.
 
- | 
+ |
 
 number
 
- |
-| 
-
- | 
+ | |
 
  |
-| 
+
+ | |
 
 olim
 
- | 
+ |
 
 previous shelf mark
 
- |
-| 
+ | |
 
 op.
 
- | 
+ |
 
 opus
 
- |
-| 
-
- | 
+ | |
 
  |
-| 
+
+ | |
 
 p.
 
- | 
+ |
 
 page(s)
 
- |
-| 
-
-part(s)
-
- | 
+ | |
 
 part(s)
 
  |
-| 
 
-passim
+part(s)
 
- | 
+ | |
 
 passim
 
  |
-| 
+
+passim
+
+ | |
 
 1.perf.
 
- | 
+ |
 
 date of 1st performance
 
- |
-| 
+ | |
 
 perf.
 
- | 
+ |
 
 date of further performance
 
- |
-| 
+ | |
 
 phil.
 
- | 
+ |
 
 philosophical
 
- |
-| 
+ | |
 
 Pl.no
 
- | 
+ |
 
 printing plate number
 
- |
-| 
+ | |
 
 pr.
 
- | 
+ |
 
 print, printed
 
- |
-| 
+ | |
 
 Prov.
 
- | 
+ |
 
 previous owner (person or institution)
 
- |
-| 
+ | |
 
 pub.
 
- | 
+ |
 
 published
 
- |
-| 
+ | |
 
 publ.
 
- | 
+ |
 
 date of publication
 
- |
-| 
-
- | 
+ | |
 
  |
-| 
+
+ | |
 
 repr.
 
- | 
+ |
 
 reprinted, reprint
 
- |
-| 
+ | |
 
 rev.
 
- | 
+ |
 
 revised (edition)
 
- |
-| 
+ | |
 
 Role
 
- | 
+ |
 
 role
 
- |
-| 
-
- | 
+ | |
 
  |
-| 
 
-score(s)
-
- | 
+ | |
 
 score(s)
 
  |
-| 
+
+score(s)
+
+ | |
 
 s.d. (sine dato)
 
- | 
+ |
 
 without date
 
- |
-| 
+ | |
 
 ser.
 
- | 
+ |
 
 series
 
- |
-| 
+ | |
 
 short score(s)
 
- | 
+ |
 
 piano reduction(s) or compressed score(s)
 
- |
-| 
+ | |
 
 sketches
 
- | 
+ |
 
 sketch(es)
 
- |
-| 
+ | |
 
 s.l. (sine loco)
 
- | 
+ |
 
 without place
 
- |
-| 
+ | |
 
 s.n. (sine nomine)
 
- | 
+ |
 
 without name
 
- |
-| 
+ | |
 
 suppl.
 
- | 
+ |
 
 supplement
 
- |
-| 
-
- | 
+ | |
 
  |
-| 
 
-theoreticum
-
- | 
+ | |
 
 theoreticum
 
  |
-| 
+
+theoreticum
+
+ | |
 
 trans.
 
- | 
+ |
 
 translation, translated by
 
- |
-| 
-
- | 
+ | |
 
  |
-| 
+
+ | |
 
 vide
 
- | 
+ |
 
 see
 
- |
-| 
+ | |
 
 vol.
 
- | 
+ |
 
 volume(s)
 
- |
-| 
-
- | 
+ | |
 
  |
-| 
+
+ | |
 
 Without title
 
- | 
+ |
 
 without title
 
- |
-| 
+ | |
 
 wm.
 
- | 
+ |
 
 watermark
 
- |
-| 
+ | |
 
 WV
 
- | 
+ |
 
 catalogue of works
 
- |
-| 
-
- | 
+ | |
 
  |
-| 
+
+ | |
 
 \*
 
- | 
+ |
 
 born
 
- |
-| 
+ | |
 
-+
-
- | 
++  |
 
 died
 
@@ -745,1996 +650,1763 @@ died
 
 As a rule, voices are upper case, while instruments are lower case.
 
-| 
+|
 ### A
- |
-| 
+ | |
 
 A
 
- | 
+ |
 
 alto (vocal)
 
- |
-| 
+ | |
 
 a-trb
 
- | 
+ |
 
 alto trombone
 
- |
-| 
+ | |
 
 a-vla
 
- | 
+ |
 
 alto viola
 
- |
-| 
+ | |
 
 acc
 
- | 
+ |
 
 accompaniment
 
- |
-| 
+ | |
 
 ad lib
 
- | 
+ |
 
 ad libitum
 
- |
-| 
+ | |
 
 althorn
 
- | 
+ |
 
 althorn /altohorn
 
- |
-| 
+ | |
 
 arciliuto
 
- | 
+ |
 
 archlute
 
- |
-| 
+ | |
 
 arp
 
- | 
+ |
 
 harp
 
- |
-| 
-
-&nbsp;
-
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 ### B
- |
-| 
+ | |
 
 B
 
- | 
+ |
 
 bass (vocal)
 
- |
-| 
+ | |
 
 b
 
- | 
+ |
 
 bass (instrumental)
 
- |
-| 
+ | |
 
 b-trb
 
- | 
+ |
 
 bass trombone
 
- |
-| 
+ | |
 
 b.fig
 
- | 
+ |
 
 bass, figured
 
- |
-| 
+ | |
 
 banda&nbsp;
 
- | 
+ |
 
 band
 
- |
-| 
+ | |
 
 Bariton
 
- | 
+ |
 
 baritone (vocal)
 
- |
-| 
+ | |
 
 bariton&nbsp;
 
- | 
+ |
 
 baritone / euphonium
 
- |
-| 
-
-baryton
-
- | 
+ | |
 
 baryton
 
  |
-| 
+
+baryton
+
+ | |
 
 bass
 
- | 
+ |
 
 thorough bass
 
- |
-| 
+ | |
 
 batt
 
- | 
+ |
 
 battery
 
- |
-| 
+ | |
 
 bc&nbsp;
 
- | 
+ |
 
 thorough bass (figured)
 
- |
-| 
-
-birds singing
-
- | 
+ | |
 
 birds singing
 
  |
-| 
+
+birds singing
+
+ | |
 
 bombarde
 
- | 
+ |
 
 bombardon /bombarde
 
- |
-| 
+ | |
 
 Bombardino
 
- | 
+ |
 
 high bombardon
 
- |
-| 
+ | |
 
 bombardone
 
- | 
+ |
 
 bombardon
 
- |
-| 
+ | |
 
 brasses
 
- | 
+ |
 
 brass wind instruments:&nbsp;
 
 cor, clno or tr, trb
 
- |
-| 
+ | |
 
 bugle&nbsp;
 
- | 
+ |
 
 bugle
 
- |
-| 
-
-&nbsp;
-
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 ### C
- |
-| 
+ | |
 
 campana
 
- | 
+ |
 
 bell
 
- |
-| 
+ | |
 
 campane tub
 
- | 
+ |
 
 tubular bells
 
- |
-| 
+ | |
 
 campanella
 
- | 
+ |
 
 small bell
 
- |
-| 
+ | |
 
 campanelli
 
- | 
+ |
 
 chime-bells /glockenspiel
 
- |
-| 
+ | |
 
 carillon
 
- | 
+ |
 
 carillon /(bell) chimes
 
- |
-| 
+ | |
 
 cassa rulante&nbsp;
 
- | 
+ |
 
 tenor drum
 
- |
-| 
+ | |
 
 castagnette
 
- | 
+ |
 
 castanet
 
- |
-| 
+ | |
 
 cb
 
- | 
+ |
 
 double-bass
 
- |
-| 
-
-celesta
-
- | 
+ | |
 
 celesta
 
  |
-| 
+
+celesta
+
+ | |
 
 cemb
 
- | 
+ |
 
 clavicembalo, harpsichord, virginal
 
- |
-| 
+ | |
 
 cemb 4hands
 
- | 
+ |
 
 clavicembalo, harpsichord etc. four-hands&nbsp;
 
- |
-| 
-
-choir book
-
- | 
+ | |
 
 choir book
 
  |
-| 
+
+choir book
+
+ | |
 
 cimb
 
- | 
+ |
 
 cymbals
 
 &nbsp;
 
- |
-| 
-
-cimbalom
-
- | 
+ | |
 
 cimbalom
 
  |
-| 
 
-cimbasso
+cimbalom
 
- | 
+ | |
 
 cimbasso
 
  |
-| 
+
+cimbasso
+
+ | |
 
 cl
 
- | 
+ |
 
 clarinet
 
- |
-| 
+ | |
 
 clav&nbsp;
 
- | 
+ |
 
 clavecin
 
- |
-| 
+ | |
 
 claves
 
- | 
+ |
 
 claves
 
 &nbsp;
 
- |
-| 
+ | |
 
 clavicordo
 
- | 
+ |
 
 clavichord
 
- |
-| 
+ | |
 
 clno&nbsp;
 
- | 
+ |
 
 clarino
 
- |
-| 
+ | |
 
 cnto
 
- | 
+ |
 
 cornetto
 
 &nbsp;
 
- |
-| 
+ | |
 
 conga
 
- | 
+ |
 
 conga drums
 
- |
-| 
+ | |
 
 Contra-A
 
- | 
+ |
 
 contralto (vocal)
 
- |
-| 
+ | |
 
 contra-fag
 
- | 
+ |
 
 double bassoon
 
- |
-| 
+ | |
 
 cor
 
- | 
+ |
 
 horn,&nbsp;
 
 French horn, hunting-horn
 
- |
-| 
+ | |
 
 cor a chiavi
 
- | 
+ |
 
 key-bugle /
 
 keyed bugle
 
- |
-| 
+ | |
 
 cor basso
 
- | 
+ |
 
 bass horn
 
- |
-| 
+ | |
 
 cor crom
 
- | 
+ |
 
 chromatic cor
 
- |
-| 
+ | |
 
 cor di bassetto
 
- | 
+ |
 
 basset horn
 
- |
-| 
+ | |
 
 cor inglese
 
- | 
+ |
 
 cor anglais
 
- |
-| 
+ | |
 
 Coro
 
- | 
+ |
 
 choir
 
- |
-| 
+ | |
 
 Coro di fanciulli
 
- | 
+ |
 
 children’s choir, boy’s choir, girl’s choir
 
- |
-| 
+ | |
 
 Coro femminile
 
- | 
+ |
 
 women’s choir
 
- |
-| 
+ | |
 
 Coro maschile
 
- | 
+ |
 
 men’s choir
 
- |
-| 
+ | |
 
 cymb antiques
 
- | 
+ |
 
 antique cymbals /crotales
 
- |
-| 
-
-&nbsp;
-
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 ### D
- |
-| 
+ | |
 
 (Instrument) d'amore
 
- | 
+ |
 
 (instrument) d’amore
 
- |
-| 
+ | |
 
 Dessus
 
- | 
+ |
 
 soprano (vocal)
 
- |
-| 
+ | |
 
 dessus
 
- | 
+ |
 
 soprano (instrumental)
 
- |
-| 
-
-&nbsp;
-
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 ### E
- |
-| 
-
-euphonium
-
- | 
+ | |
 
 euphonium
 
  |
-| 
 
-&nbsp;
+euphonium
 
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 ### F
- |
-| 
+ | |
 
 fag
 
- | 
+ |
 
 bassoon
 
- |
-| 
-
-fanfare
-
- | 
+ | |
 
 fanfare
 
  |
-| 
+
+fanfare
+
+ | |
 
 fiddle
 
- | 
+ |
 
 fiddle, vielle
 
- |
-| 
+ | |
 
 fiffaro
 
- | 
+ |
 
 fife
 
- |
-| 
+ | |
 
 (Instrument).fig
 
- | 
+ |
 
 (instrument) figured
 
- |
-| 
+ | |
 
 fl
 
- | 
+ |
 
 flute
 
- |
-| 
+ | |
 
 fl d'amore
 
- | 
+ |
 
 flauto d’amore
 
- |
-| 
+ | |
 
 fl dolce
 
- | 
+ |
 
 flauto dolce /recorder
 
- |
-| 
+ | |
 
 fl.picc
 
- | 
+ |
 
 piccolo flute
 
- |
-| 
+ | |
 
 fl quarto
 
- | 
+ |
 
 &nbsp;
 
- |
-| 
+ | |
 
 fl terzino
 
- | 
+ |
 
 Eb flute
 
 &nbsp;
 
- |
-| 
-
-flautino
-
- | 
+ | |
 
 flautino
 
  |
-| 
+
+flautino
+
+ | |
 
 flügelhorn
 
- | 
+ |
 
 flugelhorn
 
- |
-| 
-
-&nbsp;
-
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 ### G
- |
-| 
-
-glass harmonica
-
- | 
+ | |
 
 glass harmonica
 
  |
-| 
 
-gong
+glass harmonica
 
- | 
+ | |
 
 gong
 
  |
-| 
+
+gong
+
+ | |
 
 gran cassa
 
- | 
+ |
 
 big drum
 
- |
-| 
+ | |
 
 guit
 
- | 
+ |
 
 guitar
 
- |
-| 
-
-&nbsp;
-
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 ### H
- |
-| 
+ | |
 
 harmonie-b
 
- | 
+ |
 
 bass (tuba)
 
- |
-| 
-
-harmonium
-
- | 
+ | |
 
 harmonium
 
  |
-| 
+
+harmonium
+
+ | |
 
 hautecontre
 
- | 
+ |
 
 alto instrument
 
- |
-| 
+ | |
 
 helikon
 
- | 
+ |
 
 helicon
 
- |
-| 
-
-&nbsp;
-
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 ### I
- |
-| 
+ | |
 
 i
 
- | 
+ |
 
 unknown instrument
 
- |
-| 
-
-&nbsp;
-
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 ### K
- |
-| 
+ | |
 
 keyb
 
- | 
+ |
 
 keyboard instruments
 
- |
-| 
+ | |
 
 kornettino
 
- | 
+ |
 
 cornettino (brass)
 
- |
-| 
+ | |
 
 kornetto
 
- | 
+ |
 
 cornet
 
- |
-| 
+ | |
 
 kuckuck
 
- | 
+ |
 
 cuckoo
 
- |
-| 
-
-&nbsp;
-
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 ### L
- |
-| 
+ | |
 
 lira
 
- | 
+ |
 
 lyre
 
- |
-| 
+ | |
 
 Lith.
 
- | 
+ |
 
 lithography
 
- |
-| 
-
-lituus
-
- | 
+ | |
 
 lituus
 
  |
-| 
 
-lute
+lituus
 
- | 
+ | |
 
 lute
 
  |
-| 
+
+lute
+
+ | |
 
 lyra&nbsp;
 
- | 
+ |
 
 lyra, glockenspiel
 
- |
-| 
-
-&nbsp;
-
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 ### M
- |
-| 
+ | |
 
 mandoline
 
- | 
+ |
 
 mandolin
 
- |
-| 
-
-maracas
-
- | 
+ | |
 
 maracas
 
  |
-| 
+
+maracas
+
+ | |
 
 marimba
 
- | 
+ |
 
 marimbaphone
 
- |
-| 
+ | |
 
 Mezzo-S
 
- | 
+ |
 
 mezzo-soprano (vocal)
 
- |
-| 
-
-musical clock
-
- | 
+ | |
 
 musical clock
 
  |
-| 
 
-musical glasses
+musical clock
 
- | 
+ | |
 
 musical glasses
 
  |
-| 
 
-&nbsp;
+musical glasses
 
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 ### N
- |
-| 
+ | |
 
 nacchere
 
- | 
+ |
 
 rattle
 
- |
-| 
+ | |
 
 nachtigall
 
- | 
+ |
 
 nightingale
 
- |
-| 
-
-&nbsp;
-
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 ### O
- |
-| 
+ | |
 
 ob
 
- | 
+ |
 
 oboe
 
- |
-| 
+ | |
 
 ob da caccia
 
- | 
+ |
 
 oboe da caccia
 
- |
-| 
+ | |
 
 ob d'amore
 
- | 
+ |
 
 oboe d’amore
 
- |
-| 
+ | |
 
 ob grande
 
- | 
+ |
 
 mezzo-soprano oboe
 
- |
-| 
+ | |
 
 ocarina&nbsp;
 
- | 
+ |
 
 ocarina
 
- |
-| 
-
-ophicleide
-
- | 
+ | |
 
 ophicleide
 
  |
-| 
+
+ophicleide
+
+ | |
 
 orch
 
- | 
+ |
 
 orchestra (instrumental ensemble)
 
- |
-| 
+ | |
 
 org
 
- | 
+ |
 
 organ
 
- |
-| 
+ | |
 
 org 4hands
 
- | 
+ |
 
 organ&nbsp;
 
 (four-hands)
 
- |
-| 
+ | |
 
 organetto
 
- | 
+ |
 
 barrel organ
 
- |
-| 
-
-&nbsp;
-
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 ### P
- |
-| 
+ | |
 
 pf
 
- | 
+ |
 
 pianoforte
 
- |
-| 
+ | |
 
 pf 4hands
 
- | 
+ |
 
 pianoforte&nbsp;
 
 (four-hands)&nbsp;
 
- |
-| 
-
-physharmonica
-
- | 
+ | |
 
 physharmonica
 
  |
-| 
+
+physharmonica
+
+ | |
 
 piatti
 
- | 
+ |
 
 cymbals
 
- |
-| 
+ | |
 
 piatti cinesi
 
- | 
+ |
 
 chinese cymbals
 
- |
-| 
+ | |
 
 piatti sospesi
 
- | 
+ |
 
 suspended cymbals
 
- |
-| 
+ | |
 
 piffero
 
- | 
+ |
 
 shawm; fife
 
 &nbsp;
 
- |
-| 
+ | |
 
 piston
 
- | 
+ |
 
 valve cornet
 
- |
-| 
+ | |
 
 plck
 
- | 
+ |
 
 plucked instrument(s)
 
- |
-| 
+ | |
 
 posthorn
 
- | 
+ |
 
 post horn
 
- |
-| 
+ | |
 
 (Instrument) princ
 
- | 
+ |
 
 principale (= concertante)
 
- |
-| 
+ | |
 
 principale
 
- | 
+ |
 
 principale (= a kind of trumpet)
 
- |
-| 
-
-prompter
-
- | 
+ | |
 
 prompter
 
  |
-| 
 
-&nbsp;
+prompter
 
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 ### R
- |
-| 
+ | |
 
 ratsche
 
- | 
+ |
 
 ratchet
 
- |
-| 
-
-recorder
-
- | 
+ | |
 
 recorder
 
  |
-| 
+
+recorder
+
+ | |
 
 rip
 
- | 
+ |
 
 ripieno
 
- |
-| 
-
-&nbsp;
-
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 ### S
- |
-| 
+ | |
 
 S
 
- | 
+ |
 
 soprano, cantus, discant (vocal)
 
- |
-| 
+ | |
 
 salterio
 
- | 
+ |
 
 psaltery
 
- |
-| 
-
-saxhorn
-
- | 
+ | |
 
 saxhorn
 
  |
-| 
+
+saxhorn
+
+ | |
 
 saxofono
 
- | 
+ |
 
 saxophone
 
- |
-| 
+ | |
 
 serpentone
 
- | 
+ |
 
 serpent
 
- |
-| 
+ | |
 
 sonagli
 
- | 
+ |
 
 sleigh bells
 
- |
-| 
-
-sopranino
-
- | 
+ | |
 
 sopranino
 
  |
-| 
+
+sopranino
+
+ | |
 
 spinetta
 
- | 
+ |
 
 spinet
 
- |
-| 
+ | |
 
 spoons&nbsp;
 
- | 
+ |
 
 spoons
 
- |
-| 
+ | |
 
 Sprechstimme
 
- | 
+ |
 
 speaking voice
 
- |
-| 
+ | |
 
 stck
 
- | 
+ |
 
 percussion
 
- |
-| 
+ | |
 
 strings
 
- | 
+ |
 
 string players: vl 1, vl 2, vla, vlc, b or cb
 
- |
-| 
-
-&nbsp;
-
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 ### T
- |
-| 
+ | |
 
 T
 
- | 
+ |
 
 tenor
 
- |
-| 
+ | |
 
 t-cor
 
- | 
+ |
 
 tenor cor
 
- |
-| 
+ | |
 
 t-fag
 
- | 
+ |
 
 tenor bassoon
 
- |
-| 
+ | |
 
 t-ob
 
- | 
+ |
 
 tenor oboe
 
- |
-| 
+ | |
 
 t-trb
 
- | 
+ |
 
 tenor trombone
 
- |
-| 
+ | |
 
 taille
 
- | 
+ |
 
 tenor instrument
 
- |
-| 
+ | |
 
 tamb
 
- | 
+ |
 
 drum
 
- |
-| 
+ | |
 
 tamb a corda
 
- | 
+ |
 
 string drum /lion roar
 
- |
-| 
+ | |
 
 tamb di provenza
 
- | 
+ |
 
 tabor
 
- |
-| 
+ | |
 
 tamb senza corda
 
- | 
+ |
 
 drum snares off&nbsp;
 
- |
-| 
+ | |
 
 tamb turco
 
- | 
+ |
 
 turkish drum
 
- |
-| 
+ | |
 
 tamburello
 
- | 
+ |
 
 hand-drum, tambourine
 
- |
-| 
+ | |
 
 tamburino
 
- | 
+ |
 
 concert drum, side snare drum
 
- |
-| 
-
-tam-tam
-
- | 
+ | |
 
 tam-tam
 
  |
-| 
+
+tam-tam
+
+ | |
 
 tb
 
- | 
+ |
 
 tuba
 
- |
-| 
+ | |
 
 tenor horn
 
- | 
+ |
 
 tenor horn /baritone
 
- |
-| 
+ | |
 
 theorbe&nbsp;
 
- | 
+ |
 
 theorbo
 
- |
-| 
-
-timbales
-
- | 
+ | |
 
 timbales
 
  |
-| 
+
+timbales
+
+ | |
 
 timp
 
- | 
+ |
 
 timpano /timpani
 
- |
-| 
-
-tom-tom
-
- | 
+ | |
 
 tom-tom
 
  |
-| 
+
+tom-tom
+
+ | |
 
 tr
 
- | 
+ |
 
 trumpet
 
- |
-| 
+ | |
 
 tr a chiavi
 
- | 
+ |
 
 keyed trumpet
 
- |
-| 
+ | |
 
 tr crom&nbsp;
 
- | 
+ |
 
 valve trumpet
 
- |
-| 
+ | |
 
 trb
 
- | 
+ |
 
 trombone
 
- |
-| 
+ | |
 
 trb a pistoni
 
- | 
+ |
 
 valve trombone
 
- |
-| 
+ | |
 
 Treble
 
- | 
+ |
 
 upper vocal part in the setting
 
- |
-| 
+ | |
 
 treble
 
- | 
+ |
 
 upper instrumental part in the setting&nbsp;
 
- |
-| 
+ | |
 
 triangolo
 
- | 
+ |
 
 triangle
 
- |
-| 
+ | |
 
 trombetta
 
- | 
+ |
 
 tenor trombone
 
- |
-| 
+ | |
 
 trombino
 
- | 
+ |
 
 high trombone
 
- |
-| 
-
-&nbsp;
-
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 ### V
- |
-| 
+ | |
 
 V&nbsp;
 
- | 
+ |
 
 (vocal) voice
 
- |
-| 
+ | |
 
 V 5
 
- | 
+ |
 
 Quinta Vox (= 5th voice) (vocal)
 
- |
-| 
+ | |
 
 V 6&nbsp;
 
- | 
+ |
 
 Sexta Vox (= 6th voice) (vocal)
 
- |
-| 
+ | |
 
 vibrafono
 
- | 
+ |
 
 vibraphone /vibraharp
 
- |
-| 
-
-violetta
-
- | 
+ | |
 
 violetta
 
  |
-| 
 
-violetta marina
+violetta
 
- | 
+ | |
 
 violetta marina
 
  |
-| 
+
+violetta marina
+
+ | |
 
 vl
 
- | 
+ |
 
 violin
 
- |
-| 
+ | |
 
 vla
 
- | 
+ |
 
 viola
 
- |
-| 
+ | |
 
 vla basso
 
- | 
+ |
 
 small bass
 
- |
-| 
+ | |
 
 vla bastarda
 
- | 
+ |
 
 lyra viol
 
- |
-| 
+ | |
 
 vla d'amore
 
- | 
+ |
 
 viola d’amore
 
- |
-| 
+ | |
 
 vla da braccio
 
- | 
+ |
 
 viola da braccio
 
- |
-| 
+ | |
 
 vla da gamba
 
- | 
+ |
 
 viola da gamba
 
- |
-| 
+ | |
 
 vla pomposa
 
- | 
+ |
 
 violoncello piccolo
 
- |
-| 
+ | |
 
 vlc
 
- | 
+ |
 
 violoncello
 
- |
-| 
+ | |
 
 vlne
 
- | 
+ |
 
 violone
 
- |
-| 
-
-&nbsp;
-
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 ### W
- |
-| 
+ | |
 
 woodwinds
 
- | 
+ |
 
 woodwinds: fl, ob, cl, fag
 
- |
-| 
-
-&nbsp;
-
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 ### X
- |
-| 
+ | |
 
 xilofono
 
- | 
+ |
 
 xylophone
 
- |
-| 
-
-&nbsp;
-
- | 
+ | |
 
 &nbsp;
 
  |
-| 
+
+&nbsp;
+
+ | |
 ### Z
- |
-| 
-
-zither
-
- | 
+ | |
 
 zither
 
  |
-| 
+
+zither
+
+ | |
 
 zufoletto
 
- | 
+ |
 
 fipple flute
 
@@ -2742,42 +2414,42 @@ fipple flute
 
 ## Language codes
 
-- ara = Arabic 
-- arm = Armenian 
-- chi = Chinese 
-- hrv = Croatian 
-- cze = Czech 
-- dan = Danish 
-- dut = Dutch 
-- eng = English 
-- est = Estonian 
-- fin = Finnish 
-- fre = French 
-- ger = German 
-- grc = Ancient Greek 
-- gre = Greek (modern) 
-- heb = Hebrew 
-- hun = Hungarian 
-- ice = Icelandish 
-- ita = Italian 
-- jpn = Japanese 
-- lat = Latin 
-- lit = Lithuanian 
-- mac = Macedonian 
-- mon = Mongolian 
-- nor = Norwegian 
-- per = Persian 
-- pol = Polish 
-- por = Portuguese 
-- roh = Romansh 
-- rus = Russian 
-- srp = Serbian 
-- gsw = Swiss German 
-- slv = Slovenian 
-- spa = Spanish 
-- swe = Swedish 
-- tur = Turkish 
-- ukr = Ukrainian 
+- ara = Arabic
+- arm = Armenian
+- chi = Chinese
+- hrv = Croatian
+- cze = Czech
+- dan = Danish
+- dut = Dutch
+- eng = English
+- est = Estonian
+- fin = Finnish
+- fre = French
+- ger = German
+- grc = Ancient Greek
+- gre = Greek (modern)
+- heb = Hebrew
+- hun = Hungarian
+- ice = Icelandish
+- ita = Italian
+- jpn = Japanese
+- lat = Latin
+- lit = Lithuanian
+- mac = Macedonian
+- mon = Mongolian
+- nor = Norwegian
+- per = Persian
+- pol = Polish
+- por = Portuguese
+- roh = Romansh
+- rus = Russian
+- srp = Serbian
+- gsw = Swiss German
+- slv = Slovenian
+- spa = Spanish
+- swe = Swedish
+- tur = Turkish
+- ukr = Ukrainian
 
 ## Date
 
