@@ -1,552 +1,532 @@
-| 
+|
 
-**Strój** (od najwyższego do najniższego)
-
- | 
-
-**Instrumenty**
-
- | 
-
-**Transpozycja w stosunku do:  
- a) zapisu  
- b) faktycznego brzmienia**
-
- | 
-
-**Brzmiące c'  
-zapisuje się jako**
-
- | 
-
-**Zapisane c'  
-brzmi jak**
+**Tuning** (highest to lowest)
 
  |
-| 
 
-&nbsp;
+**Instruments**
 
- | 
+ |
 
-&nbsp;
+**Transposition with respect to  
+a) notation  
+b) sounding pitch**
 
- | 
+ |
 
-&nbsp;
+**A sounding c'  
+is notated as**
 
- | 
+ |
 
-&nbsp;
+**A notated c'  
+sounds as**
 
- | 
+ | |
 
 &nbsp;
 
  |
-| 
 
-w C (wysoki)
+&nbsp;
 
- | 
+ |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ | |
+
+in C (high)
+
+ |
 
 piccolo,  
- dzwonki, celesta
+glockenspiel, celesta
 
- | 
+ |
 
-a) brzmi o oktawę czystą wyżej,  
- b) zapisane o oktawę czystą w dół.
+a) sounds a perfect octave higher  
+b) notated a perfect octave lower
 
- | 
+ |
 
 c
 
- | 
+ |
 
 c''
 
- |
-| 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
+ | |
 
 &nbsp;
 
  |
-| 
-
-w Es (wysoki)
-
- | 
-
-klarnet w Es (sopranowy, sopranino, piccolo)
-
- | 
-
-a) tercję małą&nbsp;wyżej,  
- b) zapisane o tercję małą w dół.
-
- | 
-
-a
-
- | 
-
-es'
-
- |
-| 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
 
 &nbsp;
 
  |
-| 
-
-w D (wysoki)
-
- | 
-
-trąbka w D
-
- | 
-
-a)&nbsp; brzmi o sekundę wielką wyżej,  
- b) zapisane o sekundę wielką w dół.
-
- | 
-
-b
-
- | 
-
-d'
-
- |
-| 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
 
 &nbsp;
 
  |
-| 
-
-w C
-
- | 
-
-&nbsp;wszystkie instrumenty nietransponujące (skrzypce, fortepian, flet, puzon itd.)
-
- | 
-
-a) brzmi tak jak jest zapisana,  
- b) zapisane tak jak brzmi.
-
- | 
-
-c'
-
- | 
-
-c'
-
- |
-| 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
 
 &nbsp;
 
  |
-| 
 
-w B
+&nbsp;
 
- | 
+ | |
 
-trąbka, flugelhorn - skrzydłówka,  
- klarnet, saksofon sopranowy
-
- | 
-
-a) brzmi o sekundę wielką niżej,  
- b) zapisane o sekundę wielką w górę.
-
- | 
-
-d'
-
- | 
-
-b
+in E-flat (high)
 
  |
-| 
 
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
-
-&nbsp;
+E-flat clarinet (soprano, sopranino, piccolo)
 
  |
-| 
 
-w A
+a) sounds a minor third higher  
+b) notated a minor third lower
 
- | 
-
-klarnet w A
-
- | 
-
-a)&nbsp;brzmi o tercję małą niżej,&nbsp;
-
-b) zapisane o tercję małą w górę.
-
- | 
-
-es'
-
- | 
+ |
 
 a
 
  |
-| 
 
-&nbsp;
+e-flat'
 
- | 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
+ | |
 
 &nbsp;
 
  |
-| 
 
-w G
+&nbsp;
 
- | 
+ |
 
-flet altowy
+&nbsp;
 
- | 
+ |
 
-a) brzmi o kwartę czystą niżej,  
- b) zapisane o kwartę czystą w górę.
+&nbsp;
 
- | 
+ |
+
+&nbsp;
+
+ | |
+
+in D (high)
+
+ |
+
+trumpet in D
+
+ |
+
+a) sounds a major second higher  
+b) notated a major second lower
+
+ |
+
+b-flat
+
+ |
+
+d'
+
+ | |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ | |
+
+in C
+
+ |
+
+all non-  
+transposing  
+instruments (violin, piano,  
+flute, trombone, etc.)
+
+ |
+
+a) sounds as notated  
+b) notated as sounds
+
+ |
+
+c'
+
+ |
+
+c'
+
+ | |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ | |
+
+in B-flat
+
+ |
+
+trumpet, flugelhorn,  
+clarinet,  
+soprano saxophone
+
+ |
+
+a) sounds a major second lower  
+b) notated a major second higher
+
+ |
+
+d'
+
+ |
+
+b-flat
+
+ | |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ | |
+
+in A
+
+ |
+
+clarinet in A
+
+ |
+
+a) sounds a minor third lower  
+b) notated a minor third higher
+
+ |
+
+e-flat'
+
+ |
+
+a
+
+ | |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ | |
+
+in G
+
+ |
+
+alto flute
+
+ |
+
+a) sounds a perfect fourth lower  
+b) notated a perfect fourth higher
+
+ |
 
 f'
 
- | 
+ |
 
 g
 
- |
-| 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
+ | |
 
 &nbsp;
 
  |
-| 
 
-w F
+&nbsp;
 
- | 
+ |
 
-róg francuski, róg angielski
+&nbsp;
 
- | 
+ |
 
-a) brzmi o kwintę czystą niżej,  
- b) zapisane&nbsp;o kwintę czystą w górę.
+&nbsp;
 
- | 
+ |
+
+&nbsp;
+
+ | |
+
+in F
+
+ |
+
+French horn (horn),  
+English horn (cor anglais)
+
+ |
+
+a) sounds a perfect fifth lower  
+b) notated a perfect fifth higher
+
+ |
 
 g'
 
- | 
+ |
 
 f
 
- |
-| 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
+ | |
 
 &nbsp;
 
  |
-| 
 
-w Es
+&nbsp;
 
- | 
+ |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ | |
+
+in E-flat
+
+ |
 
 alto saxophone,  
- French horn, alto horn (tenor horn),  
- trąbka w Es, - saksofon altowy, róg francuski, róg altowy (róg tenorowy)
+French horn, alto horn (tenor horn),  
+E-flat trumpet
 
- | 
+ |
 
-a) brzmi o sekstę wielką wyżej,  
- b) zapisane o sekstę wielką w górę.
+a) sounds a major sixth lower  
+b) notated a major sixth higher
 
- | 
+ |
 
 a'
 
- | 
-
-es
-
  |
-| 
 
-&nbsp;
+e-flat
 
- | 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
+ | |
 
 &nbsp;
 
  |
-| 
 
-w C (niski)
+&nbsp;
 
- | 
+ |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ |
+
+&nbsp;
+
+ | |
+
+in C (low)
+
+ |
 
 guitar, lute,  
- bass guitar,  
- double bass,  
- contrabassoon (double bassoon) - gitara, lutnia, gitara basowa, kontrabas, kontrafagot (fagot basowy)
+bass guitar,  
+double bass,  
+contrabassoon (double bassoon)
 
- | 
+ |
 
-a) brzmi o oktawę czystą niżej,  
- b) zapisane o oktawę czystą w górę.
+a) sounds a perfect octave lower  
+b) notated a perfect octave higher
 
- | 
+ |
 
 c''
 
- | 
+ |
 
 c
 
- |
-| 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
+ | |
 
 &nbsp;
 
  |
-| 
 
-w B (niski)
+&nbsp;
 
- | 
+ |
 
-baryton,  
- saksofon tenorowy,  
- klarnet basowy,  
- trąbka basowa
+&nbsp;
 
- | 
+ |
 
-a) brzmi o nonę wielką wyżej,  
- b) zapisane o nonę wielką w górę.
+&nbsp;
 
- | 
+ |
+
+&nbsp;
+
+ | |
+
+in B-flat (low)
+
+ |
+
+baritone,  
+tenor saxophone,  
+bass clarinet,  
+bass trumpet
+
+ |
+
+a) sounds a major ninth lower  
+b) notated a major ninth higher
+
+ |
 
 d''
 
- | 
-
-b,
-
  |
-| 
 
-&nbsp;
+b-flat,
 
- | 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
-
-&nbsp;
-
- | 
+ | |
 
 &nbsp;
 
  |
-| 
 
-w Es (niski)
+&nbsp;
 
- | 
+ |
 
-saksofon barytonowy
+&nbsp;
 
- | 
+ |
 
-a) brzmi o jedną oktawę i sekstę wielką niżej ,  
- b) zapisane o oktawę i sekstę wielką&nbsp;w górę.
+&nbsp;
 
- | 
+ |
+
+&nbsp;
+
+ | |
+
+in E-flat (low)
+
+ |
+
+baritone saxophone
+
+ |
+
+a) sounds one octave and a major sixth lower  
+b) notated one octave and a major sixth higher
+
+ |
 
 a''
 
- | 
+ |
 
-es,
+e-flat,
 
  |
