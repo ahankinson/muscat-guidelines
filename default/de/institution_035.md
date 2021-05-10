@@ -1,3 +1,3 @@
-#### **GND Code (MARC 035, Local number)**  
+**GND code (MARC 035)**
 
-Geben Sie hier den&nbsp;GND Code für eine Bibliothek oder Körperschaft&nbsp;ein&nbsp;(GND =&nbsp;"Gemeinsame Normdatei").&nbsp;Es können mehrere Codes für eine Körperschaft vorhanden sein. Der Code/ Die Codes können der Webseite der Deutschen Bibliothek entnommen werden:&nbsp;[http://www.dnb.de/](http://www.dnb.de/)
+Enter the identifier information in accordance with GND (Gemeinsame Normdatei, the Integrated Authority File). An institution can have several codes. Take the codes from the website of the Deutsche Nationalbibliothek: http//www.dnb.de/
