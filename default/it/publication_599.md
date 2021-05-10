@@ -1,5 +1,5 @@
-**Commenti interni (599 $a)**
+#### **Internal note (599 $a)**
 
-Inserisci commenti a uso interno. Non saranno pubblicati nell’OPAC. I commenti interni possono essere usati per note di ogni tipo: domande, commenti o ricerche da fare. Elimina le note che non sono più attuali. È miglior pratica firmare i commenti usando le tue iniziali e la data.
+Enter local notes for internal use. They are not published in the OPAC. Local notes can be used for comments of all kinds, such as questions, comments, or research to be done. Delete notes after they have served their purpose. It is best practice to sign your note using your initials and the date.&nbsp;
 
-Se un esemplare è presso la Redazione Centrale a Francoforte, aggiungi la nota: **RISM-HB** per esemplari nella biblioteca di riferimento oppure **RISM-HB (PDF)** per oggetti nel disco comune. (Analogamente, se vedi questa nota in&nbsp;un titolo di cui hai bisogno, sentiti libero di scrivere agli impiegati della Redazione Centrale per cercare quello che ti serve o farti una copia.)
+If an item is held by the Editorial Center in Frankfurt, add the note: **RISM-HB** for items in the reference library or **RISM-HB (PDF)** for items on the shared drive. (Likewise, if you see this note in an item you need, please feel free to contact the Editorial Center staff and we are happy to look something up for you or make you a copy.)
