@@ -1,4 +1,4 @@
-**1. Abbildungen** (kursiv gesetzte Bezeichnungen sind Verweise) 
+**1. Figures** (Terms in italics refer to cross-references.)
 
 **&nbsp;**
 
@@ -204,9 +204,13 @@ wild man
 
 wreath
 
+
+
 &nbsp;
 
-**2. Beschreibungen**
+&nbsp;
+
+**2. Descriptions**
 
 chain line
 
